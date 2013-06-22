@@ -1,0 +1,13 @@
+<noticia>
+  <titulo>CSN:SUBMARINO DEBE SER INSPECCIONADO MEDIANTE ACUERDO GOBIERNOS</titulo>
+  <contenido>
+    <p>El Consejo_de_Seguridad_Nuclear ( CSN ) aclaró hoy que la inspección del submarino " Tireless " se debe plantear " a_través_de un acuerdo entre los 
+    gobiernos español y británico " , y consideró " más relevante " la presencia de técnicos españoles durante las pruebas previas al arranque del reactor 
+    reparado . El CSN señaló en un comunicado que " al tratarse de una instalación militar nuclear no española , la inspección directa del submarino no 
+    puede ser decidida por el Consejo , sino_que se debe planear a_través_de un acuerdo entre los Gobiernos español y británico " . En este sentido , 
+    añadió que " una mera visita de inspección , no ofrecería por sí misma información suficiente " , por lo que , " consideraría más relevante la 
+    presencia de técnicos españoles durante la realización de las pruebas de comprobación de la eficacia de la reparación de la avería del submarino , 
+    con carácter previo al arranque del reactor " . Este organismo emitió este comunicado pues entendía que era " necesario aclarar el alcance de sus 
+    funciones en relación con la avería y la presencia del submarino nuclear Tireless en la base de Gibraltar "</p> 
+  </contenido>
+</noticia>

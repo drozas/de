@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pr08.xsd">
+  <empleado>
+    <id>a02</id>
+    <nombre>Bender Rodriguez</nombre>
+    <telefono>123456789</telefono>
+    <email>bender@futurama.com</email>
+    <web>http://www.futurama.es</web>
+    <cargo>Consultor</cargo>
+  </empleado>
+  
+   <empleado>
+    <id>a03</id>
+    <nombre>Fry Farnsworth</nombre>
+    <telefono>123456789</telefono>
+    <email>fry@futurama.com</email>
+    <cargo>Socio</cargo>
+  </empleado>
+  
+   <empleado>
+    <id>b09</id>
+    <nombre>David Rozas</nombre>
+    <telefono>123654798</telefono>
+    <email>david.rozas@gmail.com</email>
+    <web>http://www.blog.davidrozas.com</web>
+    <cargo>Socio</cargo>
+  </empleado>
+</empleados>

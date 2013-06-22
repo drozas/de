@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="empleados" type="TipoEmpleados"/>
+
+<xs:complexType name="TipoEmpleados">
+	<xs:sequence>
+		<xs:element name="empleado" type="TipoEmpleado" maxOccurs="unbounded"/>
+	</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="TipoEmpleado">
+	<xs:sequence>
+		<xs:element name="id" type="xs:ID"/>
+		<xs:element name="nombre" type="xs:string"/>
+		<xs:element name="telefono" type="TipoTelefono"/>
+		<xs:element name="email" type="TipoEMail"/>
+		<xs:element name="web" type="TipoURL" minOccurs="0"/>
+		<xs:element name="cargo" type="TipoCargo"/>
+	</xs:sequence>
+</xs:complexType>
+
+
+<xs:simpleType name="TipoTelefono">
+	<xs:restriction base="xs:string">
+		<xs:minLength value="9"/>
+		<xs:maxLength value="9"/>
+		<xs:pattern value="[0-9]+"/>
+	</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="TipoEMail">
+	<xs:restriction base="xs:string">
+		<!-- <xs:pattern value="[a-z]+@[a-z]+\.[a-z]+"/>  -->
+		<xs:pattern value=".+@.+\.[a-z]+"/>
+	</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="TipoURL">
+	<xs:restriction base="xs:string">
+		<xs:pattern value="http://www\..+\.[a-z]+"/>
+	</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="TipoCargo">
+	<xs:restriction base="xs:string">
+		<xs:enumeration value="Consultor"/>
+		<xs:enumeration value="Gerente"/>
+		<xs:enumeration value="Socio"/>
+	</xs:restriction>
+</xs:simpleType>
+
+</xs:schema>

@@ -1,0 +1,10 @@
+\section{Descripción del problema}
+El objetivo de esta práctica consiste en diseñar e implementar un algoritmo de
+clustering de documentos XML que contienen noticias en español.
+Para ello se utilizará la librería Lucene, que permite generar fácilmente un
+motor de búsqueda basado en texto.
+Para comprobar la calidad de la solución se utilizará una evaluación externa
+mediante la Medidad F, que comparará con una solución que se considera ideal.
+
+El resultado se transforma en un fichero XML, que para una mejor visualización
+es transformado en una página HTML a través de una hoja de estilo XSLT.

@@ -1,0 +1,36 @@
+%%This is a very basic article template.
+%%There is just one section and two subsections.
+\documentclass{beamer}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{color}
+\usetheme{Warsaw}
+\beamersetuncovermixins{\opaqueness<1>{25}}{\opaqueness<2->{15}}
+\usepackage{graphicx}
+
+
+\title{Documentación Electrónica}
+\subtitle{¿Cómo hacer transparencias en \LaTeX}
+\date{Abril 2009}
+
+
+
+\begin{document}
+
+\maketitle
+\begin{frame}
+\tableofcontents
+\end{frame}
+
+
+
+\input{secciones/seccion_01}
+
+\input{secciones/seccion_02}
+
+\input{secciones/seccion_03}
+
+\input{secciones/seccion_04}
+
+\end{document}

@@ -1,0 +1,13 @@
+- Preguntar por el tema de los espacios, lo que hago es:
+	- Por cada inicio de etiqueta W o WR acumulo contenido de atributo FRM
+	- Por cada fin de etiqueta P, creo un nodo párrafo y  le asigno el texto del buffer con setTextContent
+	
+	- Lo único que se me ocurre es agregarlos manualmente viendo el tipo de contenido al acumular:
+							//Acumular contenido y agregar espacio si no es " or .
+						this.textAux += attributes.getValue(i);
+						if ((attributes.getValue(i).equals(".")))
+							this.textAux += "\n\t";
+						else
+							this.textAux+= " ";
+							
+	Pero no parece muy elegante...

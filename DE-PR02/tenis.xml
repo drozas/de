@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tenis>
+	<torneo>
+		<categoria>Grand Slam</categoria>
+		<nombre>Australia Open</nombre>
+		<tipo_superficie>Tierra</tipo_superficie>
+		<lugar>Australia</lugar>
+		<mes>Enero</mes>
+		<anyo>2009</anyo>
+	</torneo>
+	<torneo>
+		<categoria>Grand Slam</categoria>
+		<nombre>Masters 1000</nombre>
+		<tipo_superficie>Hierba</tipo_superficie>
+		<lugar>EEUU</lugar>
+		<mes>Marzo</mes>
+		<anyo>2009</anyo>
+	</torneo>
+	<torneo>
+		<categoria>Grand Slam</categoria>
+		<nombre>Roland Garros</nombre>
+		<tipo_superficie>Tierra</tipo_superficie>
+		<lugar>Francia</lugar>
+		<mes>Mayo</mes>
+		<anyo>2009</anyo>
+	</torneo>
+</tenis>

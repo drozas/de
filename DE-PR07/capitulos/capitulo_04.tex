@@ -1,0 +1,57 @@
+\chapter{Variaciones en el encabezado y en el pie de página}
+\noindent
+Por defecto hay un estilo para el encabezado y pie de página. Por ejemplo,
+en esta práctica se puede ver que por defecto aparece un encabezado para las
+páginas en mayúsculas. Pero, ¿si lo queremos en minúsculas por ejemplo, qué
+se debería hacer?
+Existe un paquete llamado \verb|fancyhdr| que permite que podamos configurar
+tanto el encabezado como el pie de página a nuestro gusto. Se utilizaría el
+paquete como sigue:
+
+\begin{verbatim}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} ...
+\fancyhf{} % borrar todos los ajustes
+% En lo siguiente, fancyhead sirve para configurar la cabecera, fancyfoot para
+% configurar el pie de página.
+% Justificación: C=centered, R=right, L=left, (nada)=LRC
+% Página: O=odd, E=even, (nada)=OE
+\fancyhead[RO,LE]{Cabecera1} \fancyhead[LO,RE]{Cabecera2}
+\fancyfoot[LO,CE]{Pie1} \fancyfoot[RO,CE]{Pie2} ...
+
+\end{verbatim}
+
+Si en alguna página específica se prefiere aplicar un estilo concreto se puede
+usar \verb|\thispagestyle{arg}|, con \verb|arg={fancy}| o \verb|arg={plain}| o
+\verb|arg={empty}|, dependiendo de si se quiere aplicar el estilo especial, el
+estilo por defecto o ninguno (sin cabecera ni pie), respectivamente.
+Con ``\verb|\Cabecera1|'', ``\verb|\Cabecera2|'', ``\verb|\Pie1|'', ``\verb|\Pie2|'', ... se
+puede especificar el número/nombre del capítulo/sección, etc. Para ello, hay
+que tener en cuenta que:
+
+\begin{itemize}
+	\renewcommand{\labelitemi}{$\bullet$}
+	\item \verb|\leftmark| información de nivel superior (por ejemplo, capítulo en la clase
+de documento \verb|book|)
+	\item \verb|\righttmark| información de nivel inferior (p.e.: sección en clase
+	book)
+\end{itemize}
+
+Estos comandos se introducen en \verb|\fancyhead| o \verb|\fancyfoot| según se
+requiera, por ejemplo, en un documento clase book,
+\verb|\fancyhead[LO,RE]{\leftmark}| indica que debe aparecer el nombre del
+capítulo en la parte izquierda de la cabecera si es página impar, y en la
+derecha si es página par. Para controlar cómo se representan los capítulos,
+secciones, etc., en la cabecera/pie del documento, se redefinen los comandos
+\verb|\chaptermark|,\verb|\sectionmark|,\verb|\subsectionmark|, etc. tras la
+llamada a \verb|\pagestyle{fancy}|, por ejemplo: El número de página es
+\verb|\thepage|. Puede aparecer en \verb|\fancyhead| o \verb|\fancyfoot|, según
+se quiera; por ejemplo, \verb|\fancyfoot[C]{\thepage}| indica que el número de
+página aparecería centrado en el pie de todas las páginas. En nuestro caso
+queremos que en el encabezado, en las páginas impares, en la parte izquierda
+aparezca ``Práctica 7'' y en las páginas pares, en la parte derecha
+aparezca ``Documentación Electrónica''. Además, los números de página
+aparecerían en el pie de página y centrados. El resultado de estos cambios se
+puede ver en el archivo ``practica7Variacion.pdf''. Escribid la sintaxis para
+conseguir lo anterior y comprobar que el encabezado y pie de página ha cambiado.

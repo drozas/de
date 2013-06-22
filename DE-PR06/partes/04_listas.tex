@@ -1,0 +1,40 @@
+\section{Listas formateadas}
+\noindent
+En esta segunda parte se va a trabajar con diferentes estilos de listas
+formateadas.\par
+Se comienza con una lista de entorno {\it itemize} donde se van cambiando los
+símbolos:
+
+\begin{itemize}
+  \item Primer ítem con símbolo por defecto.
+  \renewcommand{\labelitemi}{$\top$}
+  \item Segundo item con símbolo diferente.
+  \renewcommand{\labelitemi}{$\rightarrow$}
+  \item Tercer item con símbolo diferente.
+  \renewcommand{\labelitemi}{$\clubsuit$}
+  \item Cuarto item con símbolo diferente.
+\end{itemize}
+A continuación, listas anidadas con diferentes entornos.
+
+\begin{itemize}
+  %Sólo tiene en cuenta los niveles de itemize
+  \renewcommand{\labelitemi}{$\bullet$}
+  \renewcommand{\labelitemii}{$-$}
+  \item Primer item de la lista más externa.
+	\begin{enumerate}
+	  	\item Primer item de la enumeración anidada.
+	  	\begin{description}
+ 			\item[Caso 1: ] Primer caso de la anidación sobre la enumeración.
+ 			\begin{enumerate}
+   				\item Primer item enumerado de la descripción.
+   				\item Segundo item enumerado de la descripción.
+			\end{enumerate}
+ 			\item[Caso 2:] Segundo caso de la anidación sobre la enumeración.
+ 			 	\begin{itemize}
+   					\item Primer item anidado sobre el segundo caso.
+				\end{itemize}
+		\end{description}
+	  	\item Segundo item de la enumeración anidada.
+    \end{enumerate}
+  \item Segundo item de la lista más externa.
+\end{itemize}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Eventos>
+    <Evento id="1">
+        <Documento name="./noticias/20000102_623_C33.source.xml">
+            <Titulo>Pimentel manda a el Rey un mensaje de condolencia por fallecimiento </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_614_C33.source.xml~">
+            <Titulo>Falleció la madre de el Rey Juan Carlos de España </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_647_C33.source.xml">
+            <Titulo>Chaves transmite el dolor por una " Andaluza de vocación </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_614_C33.source.xml">
+            <Titulo>Falleció la madre de el Rey Juan Carlos de España </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_606_C33.source.xml">
+            <Titulo>La madre de el Rey falleciÃ³ a las 15 horas </Titulo>
+        </Documento>
+        <Documento name="./noticias/20001201_270985_C9.source.xml">
+            <Titulo>Número dos Ministerio Interior Georgia viajó a zona aclarar caso </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_624_C33.source.xml">
+            <Titulo>Sampaio transmite condolencias a el Rey Juan Carlos </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_671_C33.source.xml">
+            <Titulo>Monteseirin recuerda vínculos especiales y cariño con Sevilla </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="2">
+        <Documento name="./noticias/20001201_270821_C25.source.xml">
+            <Titulo>Rafter : " Voy a ganar uno o los dos partidos que voy a jugar " </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000802_173042_C25.source.xml">
+            <Titulo>Bruguera : " No es una buena idea jugar la final en pista cerrada " </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="3">
+        <Documento name="./noticias/20000102_614_C33.source.xml~">
+            <Titulo>Falleció la madre de el Rey Juan Carlos de España </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_614_C33.source.xml">
+            <Titulo>Falleció la madre de el Rey Juan Carlos de España </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_606_C33.source.xml">
+            <Titulo>La madre de el Rey falleciÃ³ a las 15 horas </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_624_C33.source.xml">
+            <Titulo>Sampaio transmite condolencias a el Rey Juan Carlos </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="4">
+        <Documento name="./noticias/20000102_647_C33.source.xml">
+            <Titulo>Chaves transmite el dolor por una " Andaluza de vocación </Titulo>
+        </Documento>
+        <Documento name="./noticias/20001201_270985_C9.source.xml">
+            <Titulo>Número dos Ministerio Interior Georgia viajó a zona aclarar caso </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="5">
+        <Documento name="./noticias/20000801_172327_C17.source.xml">
+            <Titulo>Reanudación vuelos Concorde condicionada a secuencia accidente </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000801_172119_C17.source.xml">
+            <Titulo>Devuelven un Concorde a los hangares poco antes de despegar </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="6">
+        <Documento name="./noticias/20000102_614_C33.source.xml">
+            <Titulo>Falleció la madre de el Rey Juan Carlos de España </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_606_C33.source.xml">
+            <Titulo>La madre de el Rey falleciÃ³ a las 15 horas </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_624_C33.source.xml">
+            <Titulo>Sampaio transmite condolencias a el Rey Juan Carlos </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="7">
+        <Documento name="./noticias/20000102_606_C33.source.xml">
+            <Titulo>La madre de el Rey falleciÃ³ a las 15 horas </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_671_C33.source.xml">
+            <Titulo>Monteseirin recuerda vínculos especiales y cariño con Sevilla </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="8">
+        <Documento name="./noticias/20000802_173042_C25.source.xml">
+            <Titulo>Bruguera : " No es una buena idea jugar la final en pista cerrada " </Titulo>
+        </Documento>
+        <Documento name="./noticias/20001201_270325_C9.source.xml">
+            <Titulo>Consul español recaba información con Ministro Interior Georgia </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="9">
+        <Documento name="./noticias/20000902_193898_C17.source.xml">
+            <Titulo>Hay " demasiadas zonas de sombra " sobre accidente , segÃºn abogado </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000801_172119_C17.source.xml">
+            <Titulo>Devuelven un Concorde a los hangares poco antes de despegar </Titulo>
+        </Documento>
+    </Evento>
+    <Evento id="10">
+        <Documento name="./noticias/20000102_633_C33.source.xml">
+            <Titulo>Francisco Frutos expresa el pesa me en nombre de IU </Titulo>
+        </Documento>
+        <Documento name="./noticias/20000102_671_C33.source.xml">
+            <Titulo>Monteseirin recuerda vínculos especiales y cariño con Sevilla </Titulo>
+        </Documento>
+    </Evento>
+</Eventos>

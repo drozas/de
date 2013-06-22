@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[dvips]{graphicx}
+
+\title{\Huge Documentación Electrónica \\ Práctica final: ``Clustering'' \\
+Curso 2008/2009}
+\author{\Large Carlos Noreña Martín y David Rozas Domingo}
+\renewcommand{\baselinestretch}{1.2}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\newpage
+
+\tableofcontents
+\newpage
+
+\input{partes/01_descripcion}
+\newpage
+
+\input{partes/02_diseno}
+\newpage
+
+\input{partes/03_resultado}
+\newpage
+
+\nocite*
+
+%%Para indicar el uso de bibliografía
+\bibliography{bibliografia}
+\bibliographystyle{alpha}
+
+
+\end{document}

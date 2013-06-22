@@ -1,0 +1,87 @@
+8
+
+dir
+293
+https://www.gavab.es/svn/de/g03/ClusteringG03
+https://www.gavab.es/svn/de
+
+
+
+2009-05-26T14:15:00.058326Z
+293
+ce.norena
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1f73759c-d7aa-4080-aee1-9b1049bd22a0
+
+.classpath
+file
+
+
+
+
+2009-05-07T13:31:34.000000Z
+2d8dcb1224a67bef5e2fbfa8cc387069
+2009-05-07T13:17:53.744214Z
+97
+d.rozas
+has-props
+
+.project
+file
+
+
+
+
+2009-05-07T13:20:40.000000Z
+9df300e3317c1e46fc7d2164971e2e58
+2009-05-07T13:17:53.744214Z
+97
+d.rozas
+has-props
+
+doc
+dir
+
+lib
+dir
+
+manualSolution
+dir
+
+news
+dir
+
+out
+dir
+
+spanishStopList.txt
+file
+
+
+
+
+2009-05-07T13:57:06.000000Z
+3da579f93fe243a724ffb171b7f3045f
+2009-05-07T13:38:00.368326Z
+101
+d.rozas
+
+src
+dir
+
+xslt
+dir
+

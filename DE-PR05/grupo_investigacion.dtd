@@ -1,0 +1,57 @@
+<!ELEMENT grupo_investigacion (profesor+, alumno*, asignatura+, linea_investigacion+,
+								proyecto_investigacion+, pfc*, produccion) >
+<!ELEMENT profesor (nombre, apellidos, email, pag_personal, tutoria*)>
+	<!ATTLIST profesor  id ID #REQUIRED
+						tipo (catedrático|titular|asociado|colaborador|ayudante) #REQUIRED
+						despacho CDATA #IMPLIED
+						asignaturas IDREFS #REQUIRED 
+						tlfno CDATA #IMPLIED>
+<!ELEMENT tutoria (#PCDATA)>
+<!ELEMENT asignatura (nombre, palabra_clave*)>
+	<!ATTLIST asignatura  id ID #REQUIRED
+						carácter (obligatoria|libre|opatativa|troncal) #REQUIRED
+						forma (presencial|videoconferencia) #REQUIRED
+						titulación CDATA #REQUIRED
+						tipo (anual|cuatrimestral) #REQUIRED
+						profesores IDREFS #REQUIRED 
+						web CDATA #IMPLIED
+						horario CDATA #IMPLIED
+						aula CDATA #IMPLIED>		
+<!ELEMENT palabra_clave (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT pag_personal (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT resumen (#PCDATA)>
+<!ELEMENT alumno (nombre, apellidos, email, pag_personal)>
+	<!ATTLIST alumno  id ID #REQUIRED
+						tipo (pfc|becario) #REQUIRED>	
+<!ELEMENT linea_investigacion (nombre, palabra_clave*, descripcion) >
+<!ELEMENT proyecto_investigacion (descripcion, entidad_financiadora, entidad*)>
+	<!ATTLIST proyecto_investigacion  id ID #REQUIRED
+						tipo CDATA #REQUIRED
+						titulo CDATA #REQUIRED
+						fecha_ini NMTOKEN #REQUIRED
+						fecha_fin NMTOKEN #REQUIRED
+						investigador_ppal IDREF #REQUIRED
+						investigadores_ptes IDREFS #REQUIRED >
+<!ELEMENT entidad_financiadora (#PCDATA)>
+<!ELEMENT entidad (#PCDATA)>
+<!ELEMENT pfc (descripcion, palabra_clave+)>
+	<!ATTLIST pfc  id ID #REQUIRED
+						titulacion CDATA #REQUIRED
+						fecha_presearticulo_cientificontacion NMTOKEN #REQUIRED
+						nota NMTOKEN #IMPLIED
+						autores IDREFS #REQUIRED
+						tutores IDREFS #REQUIRED >
+<!ELEMENT produccion (articulo_cientifico*, seminario*)>
+<!ELEMENT articulo_cientifico (nombre, palabra_clave*, resumen)>
+	<!ATTLIST articulo_cientifico  id ID #REQUIRED
+						año NMTOKEN #REQUIRED
+						lineas_investigacion IDREFS #REQUIRED
+						autores IDREFS #REQUIRED
+						url CDATA #IMPLIED >
+<!ELEMENT seminario (nombre, palabra_clave*, descripcion)>
+	<!ATTLIST seminario  id ID #REQUIRED
+						autores IDREFS #REQUIRED>

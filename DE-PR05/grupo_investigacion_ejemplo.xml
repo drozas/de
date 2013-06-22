@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE grupo_investigacion SYSTEM "grupo_investigacion.dtd" >
+<grupo_investigacion>
+  <profesor asignaturas="" despacho="" id="idvalue0" tipo="catedrático" tlfno="">
+    <nombre>nombre</nombre>
+    <apellidos>apellidos</apellidos>
+    <email>email</email>
+    <pag_personal>pag_personal</pag_personal>
+    <tutoria>tutoria</tutoria>
+  </profesor>
+  <alumno id="idvalue1" tipo="pfc">
+    <nombre>nombre</nombre>
+    <apellidos>apellidos</apellidos>
+    <email>email</email>
+    <pag_personal>pag_personal</pag_personal>
+  </alumno>
+  <asignatura aula="" carácter="obligatoria" forma="presencial" horario="" id="idvalue2" profesores="" tipo="anual" titulación="" web="">
+    <nombre>nombre</nombre>
+    <palabra_clave>palabra_clave</palabra_clave>
+  </asignatura>
+  <linea_investigacion>
+    <nombre>nombre</nombre>
+    <palabra_clave>palabra_clave</palabra_clave>
+    <descripcion>descripcion</descripcion>
+  </linea_investigacion>
+  <proyecto_investigacion fecha_fin="nmtoken" fecha_ini="nmtoken" id="idvalue3" investigador_ppal="idvalue0" investigadores_ptes="" tipo="" titulo="">
+    <descripcion>descripcion</descripcion>
+    <entidad_financiadora>entidad_financiadora</entidad_financiadora>
+    <entidad>entidad</entidad>
+  </proyecto_investigacion>
+  <pfc autores="" fecha_presentacion="nmtoken" id="idvalue4" nota="nmtoken" titulacion="" tutores="">
+    <descripcion>descripcion</descripcion>
+    <palabra_clave>palabra_clave</palabra_clave>
+  </pfc>
+  <produccion>
+    <articulo_cientifico autores="" año="nmtoken" id="idvalue5" lineas_investigacion="" url="">
+      <nombre>nombre</nombre>
+      <palabra_clave>palabra_clave</palabra_clave>
+      <resumen>resumen</resumen>
+    </articulo_cientifico>
+    <seminario autores="" id="idvalue6">
+      <nombre>nombre</nombre>
+      <palabra_clave>palabra_clave</palabra_clave>
+      <descripcion>descripcion</descripcion>
+    </seminario>
+  </produccion>
+</grupo_investigacion>

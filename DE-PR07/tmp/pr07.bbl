@@ -1,0 +1,15 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{C{\etalchar{+}}00}
+
+\bibitem[C{\etalchar{+}}00]{LibroLatex}
+{Cascales Salinas, Bernardo} et~al.
+\newblock {\em \LaTeX{}, una imprenta en sus manos}.
+\newblock ADI, 2000.
+
+\bibitem[CC03]{armistice}
+{Varela, Carlos} {Cabrero, David}, {Abalde, Carlos} and {Castro, Laura}.
+\newblock Armistice: An experience developing management software with erlang.
+\newblock {\em Principles, Logics, and Implementations of High-Level
+  Programming Languages (PLI'03)}, Agosto 2003.
+
+\end{thebibliography}

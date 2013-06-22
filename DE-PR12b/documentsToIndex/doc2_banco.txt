@@ -1,0 +1,19 @@
+<noticia>
+  <titulo>FILIAL BBVA MEXICO Y BANCOMER INICIAN CONVERSACION PARA ALIANZA</titulo>
+  <contenido>
+    <p>El espaÃ±ol Banco_Bilbao_Vizcaya ( BBV ) y el mexicano Grupo_Financiero_Bancomer ( GFB ) anunciaron hoy el inicio de conversaciones para desarrollar 
+     un programa de alianzas y capitalizaciÃ³n . El subdirector de ComunicaciÃ³n_del_BBV-MÃ©xico , Hans_Porias , explicÃ³ a EFE que las negociaciones comenzaron
+     recientemente y que el interÃ©s de ambas partes radica en concretar alianzas en diversos sectores del mercado . " </p>
+   
+     <p>Las conversaciones buscan impulsar un programa de alianzas y capitalizaciÃ³n , aunque aÃºn no sabemos los detalles de las mismas , y en su momento 
+     serÃ¡ sometido a la aprobaciÃ³n de los accionistas de ambas instituciones " , precisÃ³ Parias . El directivo del banco espaÃ±ol agregÃ³ que las 
+     conversaciones entre BBV y Bancomer favorecieron el miÃ©rcoles la demanda de las acciones de ambas instituciones en la Bolsa_Mexicana_de_Valores (BMV).</p>
+
+     <p>El BBV cerrÃ³ el miÃ©rcoles a un precio de 1,48_pesos por acciÃ³n ( 0,15 centavos de dÃ³lar ) y ganÃ³ el 25,42_por_ciento en su serie " B " , 
+     en_tanto_que el GFBancomer , cerrÃ³ a 5,18_pesos por acciÃ³n ( 0,54 centavos de dÃ³lar ) en su serie " O " y ganÃ³ el 11,39_por_ciento . Adicionalmente , 
+     el BBV y Bancomer participan en la primera etapa de la venta de Banca_Serfin , tercero del sistema mexicano , junto_con el espaÃ±ol Banco_Santander , 
+     el grupo londinense Hong_Kong_Shangai_Bank_Corporation ( HSBC ) y los estadounidenses Citibank y Bank of Boston . El BBV adquiriÃ³ en 1996 la mayorÃ­a 
+     accionarial del banco mexicano Probursa , mientras_que Bancomer , segundo banco en importancia en MÃ©xico , tiene activos por 249.000_millones_de_pesos 
+     ( 26.210_millones_de_dÃ³lares ) , equivalentes al 19,05 del total del sistema bancario mexicano.</p> 
+  </contenido>
+</noticia>

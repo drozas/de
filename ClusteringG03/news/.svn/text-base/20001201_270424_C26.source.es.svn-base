@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOC AUTHOR="sp/vg/ero" DATE="2000/12/01" DOCNO="270424" LNG="es" SOURCE="Cádiz, 1 dic (EFE)">
+    <CAT CODE="11000000" SCHEME="IPTC"/>
+    <CAT CODE="&quot;POL:POLITICA,MUNICIPAL" SCHEME="AMPA"/>
+    <TITLE>
+        <MW FRM="Ayuntamiento Cádiz" NETYPE="STRONG">
+            <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+            <LEX LEM="ayuntamiento_cádiz" PAR="NP00O00"/>
+        </MW>
+        <W FRM="pide">
+            <LEX LEM="pedir" PAR="VMIP3S0"/>
+        </W>
+        <W FRM="a">
+            <LEX LEM="a" PAR="SPS00"/>
+        </W>
+        <W FRM="el">
+            <LEX LEM="el" PAR="DA0MS0"/>
+        </W>
+        <W FRM="gobierno">
+            <LEX LEM="gobierno" PAR="NCMS000"/>
+        </W>
+        <W FRM="traslado">
+            <LEX LEM="trasladar" PAR="VMIP1S0"/>
+        </W>
+        <MW FRM="Tireless" NETYPE="STRONG">
+            <CAT CODE="MISC" SCHEME="HERMES-MUC"/>
+            <LEX LEM="tireless" PAR="NP00V00"/>
+        </MW>
+        <W FRM="a">
+            <LEX LEM="a" PAR="SPS00"/>
+        </W>
+        <MW FRM="Reino Unido" NETYPE="STRONG">
+            <CAT CODE="LOCATION" SCHEME="HERMES-MUC"/>
+            <LEX LEM="reino_unido" PAR="NP00G00"/>
+        </MW>
+    </TITLE>
+    <SUMMARY>
+        <P>
+            <MW FRM="El Ayuntamiento de CÃ¡diz" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="el_ayuntamiento_de_cÃ¡diz" PAR="NP00O00"/>
+            </MW>
+            <W FRM="aprobÃ³">
+                <LEX LEM="aprobar" PAR="VMIS3S0"/>
+            </W>
+            <W FRM="hoy">
+                <LEX LEM="hoy" PAR="RG"/>
+            </W>
+            <W FRM="una">
+                <LEX LEM="uno" PAR="DI0FS0"/>
+            </W>
+            <W FRM="propuesta">
+                <LEX LEM="propuesta" PAR="NCFS000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="Grupo Popular" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="grupo_popular" PAR="NP00O00"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="que">
+                <LEX LEM="que" PAR="PR0CN000"/>
+            </W>
+            <W FRM="gobierna">
+                <LEX LEM="gobernar" PAR="VMIP3S0"/>
+            </W>
+            <W FRM="en">
+                <LEX LEM="en" PAR="SPS00"/>
+            </W>
+            <W FRM="esta">
+                <LEX LEM="este" PAR="DD0FS0"/>
+            </W>
+            <W FRM="localidad">
+                <LEX LEM="localidad" PAR="NCFS000"/>
+            </W>
+            <W FRM="con">
+                <LEX LEM="con" PAR="SPS00"/>
+            </W>
+            <W FRM="mayorÃ­a">
+                <LEX LEM="mayorÃ­a" PAR="NCFS000"/>
+            </W>
+            <W FRM="absoluta">
+                <LEX LEM="absoluto" PAR="AQ0FS0"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="pidiendo">
+                <LEX LEM="pedir" PAR="VMG0000"/>
+            </W>
+            <W FRM="a">
+                <LEX LEM="a" PAR="SPS00"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="Gobierno" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="gobierno" PAR="NP00O00"/>
+            </MW>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="traslado">
+                <LEX LEM="traslado" PAR="NCMS000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="submarino">
+                <LEX LEM="submarino" PAR="NCMS000"/>
+            </W>
+            <W FRM="nuclear">
+                <LEX LEM="nuclear" PAR="AQ0CS0"/>
+            </W>
+            <W FRM="&quot;">
+                <LEX LEM="&quot;" PAR="Fe"/>
+            </W>
+            <W FRM=" ">
+                <LEX LEM="_" PAR="Fz"/>
+            </W>
+            <MW FRM="Tireless" NETYPE="STRONG">
+                <CAT CODE="PERSON" SCHEME="HERMES-MUC"/>
+                <LEX LEM="tireless" PAR="NP00SP0"/>
+            </MW>
+            <W FRM=" ">
+                <LEX LEM="_" PAR="Fz"/>
+            </W>
+            <W FRM="&quot;">
+                <LEX LEM="&quot;" PAR="Fe"/>
+            </W>
+            <W FRM="a">
+                <LEX LEM="a" PAR="SPS00"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="Reino Unido" NETYPE="STRONG">
+                <CAT CODE="LOCATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="reino_unido" PAR="NP00G00"/>
+            </MW>
+            <W FRM="con">
+                <LEX LEM="con" PAR="SPS00"/>
+            </W>
+            <W FRM="garantÃ­as">
+                <LEX LEM="garantÃ­a" PAR="NCFP000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="seguridad">
+                <LEX LEM="seguridad" PAR="NCFS000"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="aunque">
+                <LEX LEM="aunque" PAR="CS"/>
+            </W>
+            <W FRM="la">
+                <LEX LEM="el" PAR="DA0FS0"/>
+            </W>
+            <W FRM="oposiciÃ³n">
+                <LEX LEM="oposiciÃ³n" PAR="NCFS000"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <MW FRM="PSOE" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="psoe" PAR="NP00O00"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <MW FRM="IU" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="iu" PAR="NP00O00"/>
+            </MW>
+            <W FRM="y">
+                <LEX LEM="y" PAR="CC"/>
+            </W>
+            <MW FRM="PA" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="pa" PAR="NP00O00"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="votaron">
+                <LEX LEM="votar" PAR="VMIS3P0"/>
+            </W>
+            <W FRM="en">
+                <LEX LEM="en" PAR="SPS00"/>
+            </W>
+            <W FRM="contra">
+                <LEX LEM="contra" PAR="SPS00"/>
+            </W>
+            <W FRM=".">
+                <LEX LEM="." PAR="Fp"/>
+            </W>
+        </P>
+    </SUMMARY>
+    <BODY>
+        <P>
+            <W FRM="El">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="Ayuntamiento_de_Cádiz" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Ayuntamiento_de_Cádiz" PAR="NP00O00"/>
+            </MW>
+            <W FRM="aprobó">
+                <LEX LEM="aprobar" PAR="VMIS3S0"/>
+            </W>
+            <W FRM="hoy">
+                <LEX LEM="hoy" PAR="RG"/>
+            </W>
+            <W FRM="una">
+                <LEX LEM="uno" PAR="DI0FS0"/>
+            </W>
+            <W FRM="propuesta">
+                <LEX LEM="propuesta" PAR="NCFS000"/>
+            </W>
+            <W FRM="del">
+                <LEX LEM="del" PAR="SPCMS"/>
+            </W>
+            <MW FRM="Grupo_Popular" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Grupo_Popular" PAR="NP00O00"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="que">
+                <LEX LEM="que" PAR="PR0CN000"/>
+            </W>
+            <W FRM="gobierna">
+                <LEX LEM="gobernar" PAR="VMIP3S0"/>
+            </W>
+            <W FRM="en">
+                <LEX LEM="en" PAR="SPS00"/>
+            </W>
+            <W FRM="esta">
+                <LEX LEM="este" PAR="DD0FS0"/>
+            </W>
+            <W FRM="localidad">
+                <LEX LEM="localidad" PAR="NCFS000"/>
+            </W>
+            <W FRM="con">
+                <LEX LEM="con" PAR="SPS00"/>
+            </W>
+            <W FRM="mayoría">
+                <LEX LEM="mayoría" PAR="NCFS000"/>
+            </W>
+            <W FRM="absoluta">
+                <LEX LEM="absoluto" PAR="AQ0FS0"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="pidiendo">
+                <LEX LEM="pedir" PAR="VMG0000"/>
+            </W>
+            <W FRM="al">
+                <LEX LEM="al" PAR="SPCMS"/>
+            </W>
+            <MW FRM="Gobierno" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Gobierno" PAR="NP00O00"/>
+            </MW>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="traslado">
+                <LEX LEM="traslado" PAR="NCMS000"/>
+            </W>
+            <W FRM="del">
+                <LEX LEM="del" PAR="SPCMS"/>
+            </W>
+            <W FRM="submarino">
+                <LEX LEM="submarino" PAR="NCMS000"/>
+            </W>
+            <W FRM="nuclear">
+                <LEX LEM="nuclear" PAR="AQ0CS0"/>
+            </W>
+            <MW FRM="&quot;_Tireless_&quot;" NETYPE="STRONG">
+                <CAT CODE="MISC" SCHEME="HERMES-MUC"/>
+                <LEX LEM="&quot;_Tireless_&quot;" PAR="NP00V00"/>
+            </MW>
+            <W FRM="al">
+                <LEX LEM="al" PAR="SPCMS"/>
+            </W>
+            <MW FRM="Reino_Unido" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Reino_Unido" PAR="NP00O00"/>
+            </MW>
+            <W FRM="con">
+                <LEX LEM="con" PAR="SPS00"/>
+            </W>
+            <W FRM="garantías">
+                <LEX LEM="garantía" PAR="NCFP000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="seguridad">
+                <LEX LEM="seguridad" PAR="NCFS000"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="aunque">
+                <LEX LEM="aunque" PAR="CS"/>
+            </W>
+            <W FRM="la">
+                <LEX LEM="el" PAR="DA0FS0"/>
+            </W>
+            <W FRM="oposición">
+                <LEX LEM="oposición" PAR="NCFS000"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <MW FRM="PSOE" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="PSOE" PAR="NP00O00"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <MW FRM="IU" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="IU" PAR="NP00O00"/>
+            </MW>
+            <W FRM="y">
+                <LEX LEM="y" PAR="CC"/>
+            </W>
+            <MW FRM="PA" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="PA" PAR="NP00O00"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="votaron">
+                <LEX LEM="votar" PAR="VMIS3P0"/>
+            </W>
+            <W FRM="en">
+                <LEX LEM="en" PAR="SPS00"/>
+            </W>
+            <W FRM="contra">
+                <LEX LEM="contra" PAR="I"/>
+            </W>
+            <W FRM=".">
+                <LEX LEM="." PAR="Fp"/>
+            </W>
+        </P>
+        <P>
+            <W FRM="El">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="PSOE" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="PSOE" PAR="NP00O00"/>
+            </MW>
+            <W FRM="había">
+                <LEX LEM="haber" PAR="VAII1S0"/>
+            </W>
+            <W FRM="presentado">
+                <LEX LEM="presentar" PAR="VMP00SM"/>
+            </W>
+            <W FRM="una">
+                <LEX LEM="uno" PAR="DI0FS0"/>
+            </W>
+            <W FRM="propuesta">
+                <LEX LEM="propuesta" PAR="NCFS000"/>
+            </W>
+            <W FRM="pidiendo">
+                <LEX LEM="pedir" PAR="VMG0000"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="traslado">
+                <LEX LEM="traslado" PAR="NCMS000"/>
+            </W>
+            <W FRM="inmediato">
+                <LEX LEM="inmediato" PAR="AQ0MS0"/>
+            </W>
+            <W FRM="del">
+                <LEX LEM="del" PAR="SPCMS"/>
+            </W>
+            <W FRM="submarino">
+                <LEX LEM="submarino" PAR="NCMS000"/>
+            </W>
+            <W FRM="que">
+                <LEX LEM="que" PAR="PR0CN000"/>
+            </W>
+            <W FRM="fue">
+                <LEX LEM="ser" PAR="VSIS3S0"/>
+            </W>
+            <W FRM="rechazada">
+                <LEX LEM="rechazado" PAR="AQ0FSP"/>
+            </W>
+            <W FRM="posteriormente">
+                <LEX LEM="posteriormente" PAR="RG"/>
+            </W>
+            <W FRM="con">
+                <LEX LEM="con" PAR="SPS00"/>
+            </W>
+            <W FRM="los">
+                <LEX LEM="el" PAR="DA0MP0"/>
+            </W>
+            <W FRM="votos">
+                <LEX LEM="voto" PAR="NCMP000"/>
+            </W>
+            <W FRM="del">
+                <LEX LEM="del" PAR="SPCMS"/>
+            </W>
+            <MW FRM="PP." NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="PP." PAR="NP00O00"/>
+            </MW>
+        </P>
+        <P>
+            <W FRM="La">
+                <LEX LEM="el" PAR="DA0FS0"/>
+            </W>
+            <W FRM="propuesta">
+                <LEX LEM="proponer" PAR="VMP00SF"/>
+            </W>
+            <W FRM="aprobada">
+                <LEX LEM="aprobar" PAR="VMP00SF"/>
+            </W>
+            <W FRM="dice">
+                <LEX LEM="decir" PAR="VMIP3S0"/>
+            </W>
+            <W FRM="íntegramente">
+                <LEX LEM="íntegramente" PAR="RG"/>
+            </W>
+            <W FRM="&quot;">
+                <LEX LEM="&quot;" PAR="Fe"/>
+            </W>
+            <W FRM="que">
+                <LEX LEM="que" PAR="CS"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="Ayuntamiento_de_Cádiz" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Ayuntamiento_de_Cádiz" PAR="NP00O00"/>
+            </MW>
+            <W FRM="solicite">
+                <LEX LEM="solicitar" PAR="VMSP1S0"/>
+            </W>
+            <W FRM="al">
+                <LEX LEM="al" PAR="SPCMS"/>
+            </W>
+            <MW FRM="Gobierno" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Gobierno" PAR="NP00O00"/>
+            </MW>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="la">
+                <LEX LEM="el" PAR="DA0FS0"/>
+            </W>
+            <W FRM="nación">
+                <LEX LEM="nación" PAR="NCFS000"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="que">
+                <LEX LEM="que" PAR="CS"/>
+            </W>
+            <W FRM="una_vez_que">
+                <LEX LEM="una_vez_que" PAR="CS"/>
+            </W>
+            <W FRM="tenga">
+                <LEX LEM="tener" PAR="VMSP1S0"/>
+            </W>
+            <W FRM="conocimiento">
+                <LEX LEM="conocimiento" PAR="NCMS000"/>
+            </W>
+            <W FRM="fehaciente">
+                <LEX LEM="fehaciente" PAR="AQ0CS0"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="que">
+                <LEX LEM="que" PAR="CS"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="Ministerio_de_Defensa" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Ministerio_de_Defensa" PAR="NP00O00"/>
+            </MW>
+            <W FRM="británico">
+                <LEX LEM="británico" PAR="AQ0MS0"/>
+            </W>
+            <W FRM="haya">
+                <LEX LEM="haber" PAR="VASP1S0"/>
+            </W>
+            <W FRM="establecido">
+                <LEX LEM="establecer" PAR="VMP00SM"/>
+            </W>
+            <W FRM="con">
+                <LEX LEM="con" PAR="SPS00"/>
+            </W>
+            <W FRM="exactitud">
+                <LEX LEM="exactitud" PAR="NCFS000"/>
+            </W>
+            <W FRM="las">
+                <LEX LEM="el" PAR="DA0FP0"/>
+            </W>
+            <W FRM="características">
+                <LEX LEM="característica" PAR="NCFP000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="la">
+                <LEX LEM="el" PAR="DA0FS0"/>
+            </W>
+            <W FRM="avería">
+                <LEX LEM="avería" PAR="NCFS000"/>
+            </W>
+            <W FRM="y">
+                <LEX LEM="y" PAR="CC"/>
+            </W>
+            <W FRM="las">
+                <LEX LEM="el" PAR="DA0FP0"/>
+            </W>
+            <W FRM="dificultades">
+                <LEX LEM="dificultad" PAR="NCFP000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="su">
+                <LEX LEM="su" PAR="DP3CS0"/>
+            </W>
+            <W FRM="reparación">
+                <LEX LEM="reparación" PAR="NCFS000"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="negocie">
+                <LEX LEM="negociar" PAR="VMM03S0"/>
+            </W>
+            <W FRM="con">
+                <LEX LEM="con" PAR="SPS00"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="Gobierno" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Gobierno" PAR="NP00O00"/>
+            </MW>
+            <W FRM="británico">
+                <LEX LEM="británico" PAR="AQ0MS0"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="traslado">
+                <LEX LEM="traslado" PAR="NCMS000"/>
+            </W>
+            <W FRM="del">
+                <LEX LEM="del" PAR="SPCMS"/>
+            </W>
+            <W FRM="submarino">
+                <LEX LEM="submarino" PAR="NCMS000"/>
+            </W>
+            <W FRM="nuclear">
+                <LEX LEM="nuclear" PAR="AQ0CS0"/>
+            </W>
+            <W FRM="&quot;">
+                <LEX LEM="&quot;" PAR="Fe"/>
+            </W>
+            <MW FRM="Tireless" NETYPE="STRONG">
+                <CAT CODE="MISC" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Tireless" PAR="NP00V00"/>
+            </MW>
+            <W FRM="&quot;">
+                <LEX LEM="&quot;" PAR="Fe"/>
+            </W>
+            <W FRM="a">
+                <LEX LEM="a" PAR="SPS00"/>
+            </W>
+            <W FRM="las">
+                <LEX LEM="el" PAR="DA0FP0"/>
+            </W>
+            <W FRM="bases">
+                <LEX LEM="base" PAR="NCCP000"/>
+            </W>
+            <W FRM="existentes">
+                <LEX LEM="existente" PAR="AQ0CP0"/>
+            </W>
+            <W FRM="en">
+                <LEX LEM="en" PAR="SPS00"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <MW FRM="Reino_Unido" NETYPE="STRONG">
+                <CAT CODE="LOCATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Reino_Unido" PAR="NP00G00"/>
+            </MW>
+            <W FRM="para">
+                <LEX LEM="para" PAR="SPS00"/>
+            </W>
+            <W FRM="su">
+                <LEX LEM="su" PAR="DP3CS0"/>
+            </W>
+            <W FRM="reparación">
+                <LEX LEM="reparación" PAR="NCFS000"/>
+            </W>
+            <W FRM="&quot;">
+                <LEX LEM="&quot;" PAR="Fe"/>
+            </W>
+            <W FRM=".">
+                <LEX LEM="." PAR="Fp"/>
+            </W>
+        </P>
+        <P>
+            <W FRM="El">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="portavoz">
+                <LEX LEM="portavoz" PAR="NCCS000"/>
+            </W>
+            <W FRM="popular">
+                <LEX LEM="popular" PAR="AQ0CS0"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <MW FRM="José_Blas_Fernández" NETYPE="STRONG">
+                <CAT CODE="PERSON" SCHEME="HERMES-MUC"/>
+                <LEX LEM="José_Blas_Fernández" PAR="NP00SP0"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="defendió">
+                <LEX LEM="defender" PAR="VMIS3S0"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="rechazo">
+                <LEX LEM="rechazo" PAR="NCMS000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="su">
+                <LEX LEM="su" PAR="DP3CS0"/>
+            </W>
+            <W FRM="grupo">
+                <LEX LEM="grupo" PAR="NCMS000"/>
+            </W>
+            <W FRM="a">
+                <LEX LEM="a" PAR="SPS00"/>
+            </W>
+            <W FRM="la">
+                <LEX LEM="el" PAR="DA0FS0"/>
+            </W>
+            <W FRM="propuesta">
+                <LEX LEM="propuesta" PAR="NCFS000"/>
+            </W>
+            <W FRM="socialista">
+                <LEX LEM="socialista" PAR="AQ0CS0"/>
+            </W>
+            <W FRM="porque">
+                <LEX LEM="porque" PAR="CS"/>
+            </W>
+            <W FRM="no">
+                <LEX LEM="no" PAR="RN"/>
+            </W>
+            <W FRM="se">
+                <LEX LEM="se" PAR="P0000000"/>
+            </W>
+            <W FRM="especifica">
+                <LEX LEM="especificar" PAR="VMIP3S0"/>
+            </W>
+            <W FRM="en">
+                <LEX LEM="en" PAR="SPS00"/>
+            </W>
+            <W FRM="ella">
+                <LEX LEM="él" PAR="PP3FS000"/>
+            </W>
+            <W FRM="que">
+                <LEX LEM="que" PAR="CS"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="traslado">
+                <LEX LEM="traslado" PAR="NCMS000"/>
+            </W>
+            <W FRM="debe">
+                <LEX LEM="deber" PAR="VMIP3S0"/>
+            </W>
+            <W FRM="hacerse">
+                <LEX LEM="hacer" PAR="VMN0000"/>
+            </W>
+            <W FRM="con">
+                <LEX LEM="con" PAR="SPS00"/>
+            </W>
+            <W FRM="todas">
+                <LEX LEM="todo" PAR="DI0FP0"/>
+            </W>
+            <W FRM="las">
+                <LEX LEM="el" PAR="DA0FP0"/>
+            </W>
+            <W FRM="garantías">
+                <LEX LEM="garantía" PAR="NCFP000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="seguridad">
+                <LEX LEM="seguridad" PAR="NCFS000"/>
+            </W>
+            <W FRM="para">
+                <LEX LEM="para" PAR="SPS00"/>
+            </W>
+            <MW FRM="España" NETYPE="STRONG">
+                <CAT CODE="LOCATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="España" PAR="NP00G00"/>
+            </MW>
+            <W FRM=".">
+                <LEX LEM="." PAR="Fp"/>
+            </W>
+        </P>
+        <P>
+            <W FRM="No_obstante">
+                <LEX LEM="no_obstante" PAR="CC"/>
+            </W>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="portavoz">
+                <LEX LEM="portavoz" PAR="NCCS000"/>
+            </W>
+            <W FRM="del">
+                <LEX LEM="del" PAR="SPCMS"/>
+            </W>
+            <MW FRM="PSOE" NETYPE="STRONG">
+                <CAT CODE="ORGANIZATION" SCHEME="HERMES-MUC"/>
+                <LEX LEM="PSOE" PAR="NP00O00"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <MW FRM="Antonio_Perales" NETYPE="STRONG">
+                <CAT CODE="PERSON" SCHEME="HERMES-MUC"/>
+                <LEX LEM="Antonio_Perales" PAR="NP00SP0"/>
+            </MW>
+            <W FRM=",">
+                <LEX LEM="," PAR="Fc"/>
+            </W>
+            <W FRM="defiende">
+                <LEX LEM="defender" PAR="VMIP3S0"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="traslado">
+                <LEX LEM="traslado" PAR="NCMS000"/>
+            </W>
+            <W FRM="inmediato">
+                <LEX LEM="inmediato" PAR="AQ0MS0"/>
+            </W>
+            <W FRM="porque">
+                <LEX LEM="porque" PAR="CS"/>
+            </W>
+            <W FRM="&quot;">
+                <LEX LEM="&quot;" PAR="Fe"/>
+            </W>
+            <W FRM="no">
+                <LEX LEM="no" PAR="RN"/>
+            </W>
+            <W FRM="nos">
+                <LEX LEM="yo" PAR="PP1CP000"/>
+            </W>
+            <W FRM="vamos">
+                <LEX LEM="ir" PAR="VMIP1P0"/>
+            </W>
+            <W FRM="a">
+                <LEX LEM="a" PAR="SPS00"/>
+            </W>
+            <W FRM="enterar">
+                <LEX LEM="enterar" PAR="VMN0000"/>
+            </W>
+            <W FRM="de">
+                <LEX LEM="de" PAR="SPS00"/>
+            </W>
+            <W FRM="cómo">
+                <LEX LEM="cómo" PAR="PT000000"/>
+            </W>
+            <W FRM="se">
+                <LEX LEM="se" PAR="P0000000"/>
+            </W>
+            <W FRM="encuentra">
+                <LEX LEM="encontrar" PAR="VMIP3S0"/>
+            </W>
+            <W FRM="el">
+                <LEX LEM="el" PAR="DA0MS0"/>
+            </W>
+            <W FRM="buque">
+                <LEX LEM="buque" PAR="NCMS000"/>
+            </W>
+            <W FRM="&quot;">
+                <LEX LEM="&quot;" PAR="Fe"/>
+            </W>
+        </P>
+    </BODY>
+</DOC>

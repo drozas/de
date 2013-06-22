@@ -1,0 +1,5 @@
+- ¿Cuál debería ser el criterio de comparación/creación de evento?.
+	- ¿Me dan una palabra (o grupo), y agrego la noticia si es alguna de sus entidades?
+	- Comparamos todas con todas, y si hay alguna coincidencia la agregamos como evento
+
+- Como en la anterior...el tema de los espacios.

@@ -1,0 +1,20 @@
+@ARTICLE{apuntes,
+author = {http://www.escet.urjc.es/~smontalvo/de/material.html},
+title = {Apuntes de clase},
+month = {Mayo},
+year = {2009}
+}
+
+@ARTICLE{lucene,
+author = {http://lucene.apache.org/java/docs/},
+title = {Página principal de Lucene},
+month = {Mayo},
+year = {2009}
+}
+
+@ARTICLE{xslt,
+author = {http://www.w3.org/TR/xslt},
+title = {XSLT (Página del W3C)},
+month = {Mayo},
+year = {2009}
+}

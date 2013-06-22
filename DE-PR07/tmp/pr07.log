@@ -1,0 +1,271 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2008.11.8)  2 APR 2009 16:43
+entering extended mode
+ Source specials enabled.
+ %&-line parsing enabled.
+**pr07.tex
+(./pr07.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk10.clo
+File: bk10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2006/05/05 v1.1b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def
+File: latin1.def 2006/05/05 v1.1b Input encoding file
+))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2005/11/23 v3.8h The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2005/03/31 v4.2b Spanish support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2005/11/23 v3.8h Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Spanish'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@spanish = a dialect from \language0
+\es@quottoks=\toks16
+\es@quotdepth=\count89
+Package babel Info: Making . an active character on input line 509.
+Package babel Info: Making " an active character on input line 540.
+Package babel Info: Making < an active character on input line 641.
+Package babel Info: Making > an active character on input line 642.
+)) (/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+) (./pr07.aux)
+\openout1 = `pr07.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 32.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+] [2
+
+] (./pr07.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `pr07.toc'.
+
+ [3] [4
+
+] (./pr07.lot)
+\tf@lot=\write4
+\openout4 = `pr07.lot'.
+
+ (./capitulos/capitulo_01.tex [5]
+[6
+
+]
+Cap\'{\i }tulo 1.
+) (./capitulos/capitulo_02.tex [7] [8
+
+]
+Cap\'{\i }tulo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Overfull \hbox (23.5806pt too wide) in paragraph at lines 7--12
+[][][]\OT1/cmtt/m/n/10 {\begin{tabular}[caracter^^S^^Psticas de la tabla]...\en
+d{tabular} \OT1/cmr/m/n/10 , donde 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 54--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--128
+
+ []
+
+[10]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 158.
+ [11]) (./capitulos/capitulo_03.tex [12]
+Cap\'{\i }tulo 3.
+) (./capitulos/capitulo_04.tex [13
+
+] [14
+
+]
+Cap\'{\i }tulo 4.
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 23--23
+[]\OT1/cmtt/m/n/10 % En lo siguiente, fancyhead sirve para configurar la cabece
+ra, fancyfoot para[] 
+ []
+
+
+Overfull \hbox (10.1662pt too wide) in paragraph at lines 25--32
+\OT1/cmr/m/n/10 ninguno (sin cabecera ni pie), re-spec-ti-va-mente. Con ``[]\OT
+1/cmtt/m/n/10 \Cabecera1\OT1/cmr/m/n/10 '', ``[]\OT1/cmtt/m/n/10 \Cabecera2\OT1
+/cmr/m/n/10 '',
+ []
+
+
+Overfull \hbox (3.86113pt too wide) in paragraph at lines 25--32
+\OT1/cmr/m/n/10 ``[]\OT1/cmtt/m/n/10 \Pie1\OT1/cmr/m/n/10 '', ``[]\OT1/cmtt/m/n
+/10 \Pie2\OT1/cmr/m/n/10 '', ... se puede es-peci-ficar el n^^Sumero/nombre del
+ cap^^S^^Ptu-lo/secci^^Son,
+ []
+
+[15])
+Overfull \hbox (14.33246pt too wide) in paragraph at lines 41--44
+\OT1/cmr/m/n/10 quiera, por ejem-p-lo, en un doc-u-men-to clase book, []\OT1/cm
+tt/m/n/10 \fancyhead[LO,RE]{\leftmark}
+ []
+
+(./capitulos/capitulo_05.tex [16]
+Cap\'{\i }tulo 5.
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 39--39
+[][]\OT1/cmtt/m/n/10 En \cite{Hahn} se pueden ver los aspectos relativos al ``P
+icture Environment''[] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 45--45
+[][]\OT1/cmtt/m/n/10 En [1] se pueden ver los aspectos relativos al "Picture En
+vironment".[] 
+ []
+
+[17
+
+] [18]) (./pr07.bbl [19] [20
+
+]) [21] (./pr07.aux) ) 
+Here is how much of TeX's memory you used:
+ 1011 strings out of 95087
+ 11743 string characters out of 1183278
+ 69404 words of memory out of 1500000
+ 4207 multiletter control sequences out of 10000+50000
+ 11190 words of font info for 39 fonts, out of 1200000 for 2000
+ 28 hyphenation exceptions out of 8191
+ 24i,11n,43p,149b,329s stack positions out of 5000i,500n,6000p,200000b,5000s
+
+Output written on pr07.dvi (21 pages, 33384 bytes).

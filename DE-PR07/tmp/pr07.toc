@@ -1,0 +1,9 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\'on}{7}
+\contentsline {chapter}{\numberline {2}Tablas}{9}
+\contentsline {section}{\numberline {2.1}Referencias a tablas}{10}
+\contentsline {chapter}{\numberline {3}\'Indices}{13}
+\contentsline {section}{\numberline {3.1}\'Indice de contenidos}{13}
+\contentsline {section}{\numberline {3.2}\'Indice de figuras y tablas}{13}
+\contentsline {chapter}{\numberline {4}Variaciones en el encabezado y en el pie de p\'agina}{15}
+\contentsline {chapter}{\numberline {5}Bibliograf\IeC {\'\i }a}{17}

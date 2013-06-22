@@ -1,0 +1,6 @@
+- Problema para introducir verb|url| en sección 1-->agregar fragile
+- Problema para introducir verbatim en sección 2--->usar normal
+- ¿Cómo indicar en qué transpas hacer pausa?-->pause
+- Problemas con el índice: ¿cómo centrarlo mejor?--->?
+- Problemas con importación de paquete graphics---> quitar dvi
+- ¿Hay que utilizar otro estilo para las columnas?

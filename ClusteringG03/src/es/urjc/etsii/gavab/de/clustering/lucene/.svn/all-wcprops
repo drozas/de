@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/de/!svn/ver/215/g03/ClusteringG03/src/es/urjc/etsii/gavab/de/clustering/lucene
+END
+SearchEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/de/!svn/ver/301/g03/ClusteringG03/src/es/urjc/etsii/gavab/de/clustering/lucene/SearchEngine.java
+END
+SpanishAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/de/!svn/ver/97/g03/ClusteringG03/src/es/urjc/etsii/gavab/de/clustering/lucene/SpanishAnalyzer.java
+END
+SpanishStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/de/!svn/ver/97/g03/ClusteringG03/src/es/urjc/etsii/gavab/de/clustering/lucene/SpanishStemFilter.java
+END

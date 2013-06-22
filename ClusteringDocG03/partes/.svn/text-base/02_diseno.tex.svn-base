@@ -1,0 +1,137 @@
+\section{Diseño e implementación}
+
+A continuación se explican los detalles y decisiones más importantes que se han
+tomado durante las fases de diseño e implementación.
+
+\subsection{Paquetes}
+
+La aplicación ha sido dividida en diferentes paquetes acordes a cada tipo de
+funcionalidad (la imagen original se encuentra en:
+\verb|/diagramas_uml/diagrama_clases.png|)
+
+\includegraphics[width=14cm]{diagramas_uml/diagrama_paquetes.eps}
+
+
+\begin{itemize}
+  \item \verb|es.urjc.es.etsii.gavab.de.clustering|: contiene la clase principal
+  desde la que se arranca la aplicación.
+  \item \verb|es.urjc.es.etsii.gavab.de.clustering.algoritmo|: contiene todas
+  las clases necesarias para implementar el algoritmo de clustering propuesto.
+  \item \verb|es.urjc.es.etsii.gavab.de.clustering.lucene|: contiene las clases
+  relativas al motor de búsqueda.
+  \item \verb|es.urjc.es.etsii.gavab.de.clustering.measure|: contiene las clases
+  necesarias para llevar a cabo el proceso de medición de la calidad de la
+  solución.
+  \item \verb|es.urjc.es.etsii.gavab.de.clustering.xml|: contiene las clases
+  necesarias para el análisis y la creación de documentos XML.
+  \item \verb|es.urjc.es.etsii.gavab.de.clustering.xslt|: contiene las clases
+  necesarias para realizar la tranformación del documento XML a HTML.
+\end{itemize}
+
+
+\subsection{Descripción del algoritmo}
+
+El algoritmo consta de las siguientes fases:
+\begin{itemize}
+  \item Inicialización: en la cuál se crea un cluster con todas las noticias
+  ordenadas por nombre de fichero.
+  \item Filtrado: La lista de clusters es filtrada acorde a ciertos criterios
+  (primer párrafo, título, asunto, etc.). Para cada uno de ellos:
+  	\begin{itemize}
+        \item Tomamos la primera noticia sin analizar perteneciente a ese
+        cluster, y realizamos una búsqueda.
+        \item Con todas las noticias devueltas que pertenezcan a dicho cluster,
+        se creará un nuevo cluster. 
+      \end{itemize}
+      
+   \item Este proceso se repite mientras que haya noticias sin analizar en el
+   cluster.
+   \item Nuestro algoritmo tiene una naturaleza divisiva no binaria,
+   por tanto la primera fase de filtrado es mucho más determinante para el
+   resultado final que las posteriores. La discusión acerca de la elección
+   final de los criterios a aplicar se puede encontrar en apartados posteriores.
+\end{itemize}
+
+Las clases más importantes se muestran en el siguiente diagrama (la imagen
+original se encuentra en: \verb|/diagramas_uml/diagrama_clases.png|)
+
+\includegraphics[width=14cm]{diagramas_uml/diagrama_clases.eps}
+
+Por motivos de eficiencia, se genera un único índice (filtrando los resultados
+que no pertenezcan al cluster en análisis) en el que se indexan los siguientes campos:
+\begin{center}
+
+\begin{tabular}{||l|c|c||}
+\hline
+\hline
+Campo & Almacenado & Analizado \\
+\hline
+\hline
+Nombre & Sí & No \\
+\hline
+Título & No & Sí \\
+\hline
+Asunto & No & Sí \\
+\hline
+Sumario & No & Sí \\
+\hline
+Primer párrafo & No & Sí \\
+\hline
+\hline
+\end{tabular}
+\end{center}
+
+Observaciones:
+\begin{itemize}
+  \item En los campos analizados se utiliza el diccionario SpanishStopList para
+eliminar las palabras que forman parte de dicho diccionario.  
+  \item En los campos ``Sumario'' y ``Primer párrafo'' solamente se tienen en
+  cuenta las entidades.
+  \item Para documentar la aplicación, se ha generado Javadoc de los métodos y
+  clases más importantes. Se encuentra en la carpeta \verb|doc| del proyecto.
+\end{itemize}
+
+
+\subsection{Parseado}
+
+El parseado de todas las noticias se ha realizado utilizando el API SAX de
+Java por motivos de eficiencia: 
+
+\begin{itemize}
+  \item Su enfoque orientado a eventos es útil, puesto que estamos procesando
+  documentos en los que sólo se requiere una parte de la información.
+  \item Consume menos memoria, al no tener que generar un árbol completo.
+  \item La búsqueda de información (en el parseo) es más eficiente.
+\end{itemize}
+
+\subsection{Clustering y criterios de búsqueda}
+
+Los criterios de búsqueda han sido seleccionados de una forma empírica. Se
+probaron diferentes campos, por separado y combinándolos, varias fases de
+filtrado, en diferentes órdenes, etc.
+Finalmente la mejor configuración obtenida (cuya medida-F es de alrededor {\bf0.9}) se obtuvo con la siguiente configuración:
+\begin{center}
+\begin{tabular}{||l|c|c||}
+\hline
+\hline
+Nº Fase & Campos-consulta & Campos-análisis \\
+\hline
+\hline
+1 & Entidades de sumario y primer párrafo & Entidades de sumario \\
+\hline
+2 & Entidades de primer párrafo & Entidades de primer párrafo \\
+\hline
+\hline
+\end{tabular}
+\end{center}
+
+Debido a que nuestro algoritmo posee además una fase de inicialización en la
+que se genera un primer cluster con todas las noticias, el orden en que dichas
+noticias eran agregadas al cluster (dependiente del SO) influía en el resultado
+final. 
+Por tanto decidimos ordenar previamente las noticias por su nombre de fichero.
+
+El resultado de la Medida-F puede seguir variando ligeramente, como
+consecuencia de la precisión con la que se trata el tipo float en el SO en
+cuestión.
+

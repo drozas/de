@@ -1,0 +1,30 @@
+<noticia>
+  <titulo>SE NECESITARAN MESES O AÑOS PARA DETERMINAR CAUSAS ACCIDENTE</titulo>
+  <contenido>
+    <p>La única certidumbre de los investigadores más de un mes después de que un Concorde_de_Air_France cayera cerca de París y murieran 113 personas , 
+    es que el reventón de un neumático fue el origen de la tragedia cuyas causas concretas no se conocerán hasta dentro de meses o años . Así lo aseguró 
+    hoy el presidente de la Oficina_de_Investigación_de_Accidentes ( BEA ) , Paul-Louis_Arslanian , al presentar el informe " preliminar " de la entidad 
+    publicado anoche en Internet . " Hay un problema ligado al neumático del Concorde , de ello no cabe ninguna duda ( ... ) No es la marca del neumático 
+   ( Goodyear ) lo que se cuestiona , sino el neumático del Concorde " , declaró Arslanian en una rueda de prensa . Agregó que serán necesarios " meses 
+   e incluso años " antes de poder establecer un informe final que explique las causas del accidente . </p>
+
+   <p>El reventón del neumático se debió a que el avión supersónico rodó en la pista de despegue sobre una lámina metálica , de unos 43 centímetros de 
+   largo , que según sus características procedía probablemente de otro avión . Arslanian dijo que se desconoce cuáles hubieran sido las consecuencias 
+   con otro avión , y manifestó que de repetirse exactamente el despegue en iguales condiciones , los hechos pudieran haber sido diferentes . Las dudas 
+   que persisten no parecen impulsar la reanudación de los vuelos supersónicos próximamente . </p>
+
+   <p>La divulgación del primer informe sobre el estado de la 
+   investigación hizo presagiar a algunos analistas que la BEA daría hoy mayores precisiones sobre la secuencia de los hechos ese 25_de_julio . Pero , de 
+   momento , los investigadores sólo pueden afirmar con certeza que un neumático reventó y que ello provocó " directa o indirectamente otros daños " que 
+   culminaron con la catástrofe en la que murieron las 109 personas que viajaban en el Concorde y otras cuatro en tierra . Los investigadores creen también  
+   que al menos un depósito se perforó y dejó escapar una cantidad importante de combustible , por lo que dos motores perdieron potencia y ralentizaron la 
+   velocidad del avión , el carburante se inflamó y hubo un fuego intenso . Pero la secuencia de estos hechos sigue siendo una incógnita .</p>
+
+   <p>El informe de la BEA revela los últimos diálogos entre la tripula ción y la torre de control del aeropuerto de Roissy-Charles-de-Gaulle , desde donde despegó el Concorde 
+   con rumbo a Nueva_York . El despegue del Concorde_AF4590 de la pista 26 fue autorizado a las 16.42 hora local ( 14.42 GMT ) del pasado_25_de_julio . 
+   Menos de un minuto después , la torre de control advirtió de la presencia de llamas en la parte trasera del avión y 18 segundos más tarde comunicó al 
+   piloto que tenía prioridad para volver al aeropuerto . Pero la tripulación señaló que no podía volver a Roissy y que iba a intentar aterrizar en el 
+   cercano aeropuerto militar de Le_Bourget . Un minuto y cinco segundos más tarde , el avión se había estrellado contra un hotel de la localidad de 
+   Gonesse , y otro aparato informó a la torre de control de la existencia de humo y llamas en la pista desde la que había despegado el Concorde . Un vehículo del aeropuerto comprobó " in_situ " que se trataba de " desechos de neumático que estaban quemándose " . Grandes pedazos de caucho , uno de ellos de más de cuatro kilogramos , fueron hallados en la pista . La incógnita que los investigadores deben aún resolver es adónde fueron a parar los trozos de neumático : " no sabemos de momento si perforaron los depósitos o entraron en los motores " , explicó la BEA . Son éstas y otras incertidumbres las que mantienen en tierra tanto a los cinco Concorde de Air_France , que no vuelan desde el accidente , como a los siete de British_Airways , que suspendió sus vuelos tres semanas después de la catástrofe . El avión supersónico , buque insignia de la industria aeronáutica europea , no dispone , de momento , de certificado de vuelo y es probable que las modificaciones que se deban introducir cuando se esclarezcan los hechos sean tan costosas que nunca vuelva a volar</p> 
+  </contenido>
+</noticia>

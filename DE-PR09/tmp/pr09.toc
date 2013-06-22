@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.07pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{\IeC {\textquestiondown }Qu\'e es Beamer?}{3}{0}{1}
+\beamer@sectionintoc {2}{Listas}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Listas no numeradas}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Listas numeradas}{6}{0}{2}
+\beamer@sectionintoc {3}{Tablas}{11}{0}{3}
+\beamer@sectionintoc {4}{Columnas}{19}{0}{4}

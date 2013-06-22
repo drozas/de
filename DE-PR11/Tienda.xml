@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<tienda>
+	<nombre>La barata</nombre>
+	<productos>
+	<producto>
+		<codigo>102</codigo>   
+            <cantidad>10</cantidad>   
+            <articulo>Radio-Despertador</articulo>   
+		<precio>50</precio>
+         </producto> 
+         <producto>   
+		<codigo>17802</codigo>   
+            <cantidad>1</cantidad>   
+            <articulo>Piano</articulo>   
+		<precio>3000</precio>
+         </producto> 
+         <producto>   
+             <codigo>113</codigo>   
+             <cantidad>50</cantidad>   
+             <articulo>Reloj Cocina</articulo>
+		 <precio>30</precio>
+         </producto>
+	   <producto>
+             <codigo>442</codigo>
+             <cantidad>120</cantidad>
+             <articulo>Libros</articulo>
+   		 <precio>12</precio>
+         </producto>
+         <producto>
+             <codigo>1312</codigo>
+             <cantidad>3</cantidad>
+             <articulo>Sofá</articulo>
+		 <precio>250</precio>
+        </producto>
+         <producto>
+             <codigo>562</codigo>
+             <cantidad>6</cantidad>
+             <articulo>Espejo Plata</articulo>
+		 <precio>170</precio>
+        </producto>
+	</productos>
+</tienda> 

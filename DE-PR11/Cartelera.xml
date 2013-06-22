@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="plantilla01.xsl"?>
+<cartelera>
+	<cine nombre="Cinesa La Moraleja" direccion="Av. Europa, 13-15, C.C. Moraleja Green" municipio="Alcobendas">
+		<pelicula titulo="300" director="Zack Snyder" interpretes="Gerard Butler, Lena Headey, Dominic West, Davis Wenham, 
+	Vincent Regan, Michael Fassbender, Tom Wisdom, Andrew Pleavin, Andrew Tiernan, Rodrigo Santoro" categoria="Bélica ,Histórica o biográfica"
+	duracion="117 min">
+			<sinopsis>
+				El Rey Leónidas y 300 espartanos lucharon hasta la muerte contra Jerjes y su gran ejército persa en la antigua Batalla de las Termópilas. Su valor y 
+sacrificio consiguió que toda Grecia se uniera en contra del enemigo persa, desafiando al destino y fundando las bases de la democracia.
+			</sinopsis>
+			<sesiones>
+				<sesion dia="lunes" horas="22:40"/>
+				<sesion dia="martes" horas="22:40"/>
+				<sesion dia="miercoles" horas="22:40"/>
+				<sesion dia="jueves" horas="22:40"/>
+				<sesion dia="viernes" horas="01:05"/>
+				<sesion dia="sabado" horas="01:05"/>
+				<sesion dia="visp. fest." hora="01:05"/>
+			</sesiones>
+		</pelicula>
+	</cine>
+	<cine nombre="Kinépolis" direccion="Calle Edgar Neville s/n, Ciudad de la Imagen" municipio="Pozuelo de Alarcón">
+		<pelicula titulo="300" director="Zack Snyder" interpretes="Gerard Butler, Lena Headey, Dominic West, Davis Wenham, 
+	Vincent Regan, Michael Fassbender, Tom Wisdom, Andrew Pleavin, Andrew Tiernan, Rodrigo Santoro" categoria="Bélica ,Histórica o biográfica"
+	duracion="117 min">
+			<sinopsis>
+				El Rey Leónidas y 300 espartanos lucharon hasta la muerte contra Jerjes y su gran ejército persa en la antigua Batalla de las Termópilas. Su valor y 
+sacrificio consiguió que toda Grecia se uniera en contra del enemigo persa, desafiando al destino y fundando las bases de la democracia.
+			</sinopsis>
+			<sesiones>
+				<sesion dia="lunes" horas="16:30 / 19:30 / 22:00"/>
+				<sesion dia="martes" hora="16:30 / 19:30 / 22:00"/>
+				<sesion dia="miercoles" hora="16:30 / 19:30 / 22:00"/>
+				<sesion dia="jueves" hora="16:30 / 19:30 / 22:00"/>
+				<sesion dia="viernes" hora="00:30"/>
+				<sesion dia="sabado" hora="00:30"/>
+				<sesion dia="visp. fest." hora="01:05"/>
+			</sesiones>
+		</pelicula>
+
+		<pelicula titulo="En busca de la felicidad" director="Gabriele Muccino" interpretes="Will Smith, Jaden Smith, Thandie Newton, Brian Howe, James Karen, Dan Castellaneta, 
+	Kurt Fuller, Takayo Fischer" categoria="Drama" duracion="117 min">
+			<sinopsis>
+				Chris Gardner es un padre en apuros. A pesar de su valía, su situación económica empeora cada día y su mujer le abandona incapaz de soportar 
+esa situación de precariedad. Chris se queda solo en compañía de su hijo de cinco años, un niño en el que se apoyará para salir del bache y con 
+el que tendrá que compartir la etapa más dura de su vida pero a la vez la más enriquecedora. Sin techo bajo el que vivir, Chris y su hijo comienzan 
+un largo peregrinar por casas de acogida o estaciones de autobús.
+			</sinopsis>
+			<sesiones>
+				<sesion dia="jueves" hora="16:30 / 19:30 / 22:00"/>
+				<sesion dia="viernes" hora="00:30"/>
+				<sesion dia="sabado" hora="00:30"/>
+				<sesion dia="visp. fest." hora="01:05"/>
+			</sesiones>
+		</pelicula>
+	</cine>
+
+
+	<cine nombre="Cinesa Heron City Las Rozas" direccion="Juan Ramon Jiménez, 3, salida 19 N VI" municipio="Las Rozas">
+		<pelicula titulo="En busca de la felicidad" director="Gabriele Muccino" interpretes="Will Smith, Jaden Smith, Thandie Newton, Brian Howe, James Karen, Dan Castellaneta, 
+	Kurt Fuller, Takayo Fischer" categoria="Drama" duracion="117 min">
+			<sinopsis>
+				Chris Gardner es un padre en apuros. A pesar de su valía, su situación económica empeora cada día y su mujer le abandona incapaz de soportar 
+esa situación de precariedad. Chris se queda solo en compañía de su hijo de cinco años, un niño en el que se apoyará para salir del bache y con 
+el que tendrá que compartir la etapa más dura de su vida pero a la vez la más enriquecedora. Sin techo bajo el que vivir, Chris y su hijo comienzan 
+un largo peregrinar por casas de acogida o estaciones de autobús.
+			</sinopsis>
+			<sesiones>
+				<sesion dia="lunes" horas="20:15 / 22:40"/>
+				<sesion dia="martes" hora="20:15 / 22:40"/>
+				<sesion dia="miercoles" hora="20:15 / 22:40"/>
+			</sesiones>
+		</pelicula>
+	</cine>
+
+
+	<cine nombre="Princesa" direccion="Calle de la Princesa, 3" municipio="Madrid">
+		<pelicula titulo="Las Hermanas Bolena" director="Justin Chadwick" interpretes="Natalie Portman, Scarlett Johansson, Eric Bana, David Morrisey,
+Kristin Scott Thomas, Mark Rylance, Jim Sturgess, Ana Torrent" categoria="Drama">
+			<sinopsis>
+				Para sir Tomás Bolena, sus dos hijas, Ana y su hermana menor María, son dos valiosas piezas de mercancía a las 
+que hay que tutelar con sumo cuidado para que obtengan el máximo provecho social y económico para la familia.
+			</sinopsis>
+			<sesiones>
+				<sesion dia="jueves" hora="16:05"/>
+				<sesion dia="viernes" hora="00:45"/>
+				<sesion dia="sabado" hora="00:45"/>
+			</sesiones>
+		</pelicula>
+		<pelicula titulo="Caramel" director="Nadine Labaki" interpretes="Nadine Labaki, Yasmine Al Masri, Joanna Moukarzel, Gisèle Aouad, Adel Karam, 
+Siham Haddad, Aziza Semaan, Fatme Safa, Dimitri Stancofski, Fadia Stella, Ismail Antar" categoria="Drama">
+			<sinopsis>
+				En Beirut, cinco mujeres coinciden habitualmente en un salón de belleza, un microcosmos lleno de colorido y sensualidad en el que varias 
+generaciones se encuentran, hablan y se hacen confidencias.
+			</sinopsis>
+			<sesiones>
+				<sesion dia="jueves" hora="16:05"/>
+				<sesion dia="viernes" hora="00:45"/>
+				<sesion dia="sabado" hora="00:45"/>
+			</sesiones>
+		</pelicula>
+		<pelicula titulo="AzulOscuro CasiNegro" director="Daniel Sánche Arévalo" interpretes="Quim Gutiérrez, Marta Etura, Raúl Arévalo, 
+		Antonio de la Torre, Héctor Colomé, Eva Pallarés" categoria="Drama">
+			<sinopsis>
+				Desde que su padre sufriera un infarto cerebral, Jorge se hace cargo de su trabajo. Al tiempo que trabaja, intenta realizar estudios universitarios 
+y cuidar a su padre. Cuando conoce a Paula, amiga de su hermano, Jorge empieza a sentirse menos responsable y enfrentarse a sus deseos.
+			</sinopsis>
+			<sesiones>
+				<sesion dia="viernes" hora="00:45"/>
+				<sesion dia="sabado" hora="00:45"/>
+			</sesiones>
+		</pelicula>
+	</cine>
+</cartelera>

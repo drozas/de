@@ -1,0 +1,35 @@
+<noticia>
+  <titulo>PSOE PIDE COMPARECENCIA PIQUE Y TRILLO Y JUNTA INSISTE TRASLADO</titulo>
+  <contenido>
+    <p>El PSOE pidiÃ³ hoy la comparecencia conjunta en el Congreso de los ministros de Exteriores , Josep_PiquÃ© , y Defensa , Federico_Trillo , para_que 
+    aclaren la situaciÃ³n del submarino nuclear britÃ¡nico " Tireless " , mientras_que la Junta afirmÃ³ que es posible trasladar de puerto el sumergible 
+    averiado . Mientras tanto , un millar de personas de todo el Campo_de_Gibraltar se concentraron hoy en Los_Barrios ( CÃ¡diz ) contra la estancia del 
+    submarino averiado en el puerto del PeÃ±Ã³n , donde estÃ¡ desde el 19_de_mayo . Ante los concentrados , el alcalde de Los_Barrios , Alonso_Rojas ( PSOE ) , 
+    leyÃ³ un comunicado en el que se criticaba que el Gobierno britÃ¡nico haya " abusado de la buena fe " del espaÃ±ol , y que Ã©ste no haya sido lo " 
+    suficientemente enÃ©rgico a la hora de demandar informaciÃ³n " a las autoridades britÃ¡nicas . Antes de iniciarse la protesta , la quinta contra el 
+    sumergible , el alcalde de Algeciras , Patricio_GonzÃ¡lez ( PA ) , anunciÃ³ que ha contactado con abogados gibraltareÃ±os para presentar en Londres una 
+    denuncia contra el Ministerio_de_Defensa britÃ¡nico , al_igual_que hizo recientemente ante las Cortes_de_Justicia_de_Gibraltar . </p>
+
+    <p>En Madrid , el portavoz de Exteriores del grupo socialista , Manuel_MarÃ­n , anunciÃ³ la peticiÃ³n de comparecencia en el Congreso_de_PiquÃ© y Trillo e 
+    insistiÃ³ en reclamar que tÃ©cnicos espaÃ±oles verifiquen " in_situ " la trascendencia de la averÃ­a del submarino nuclear britÃ¡nico , ya_que cree que el 
+    informe del Consejo_de_Seguridad_Nuclear ( CSN ) es " insuficiente " , al partir de informaciÃ³n fundamentalmente verbal . Por su parte , el CSN aclarÃ³ 
+    que la inspecciÃ³n del submarino se debe plantear " a_travÃ©s_de un acuerdo entre los gobiernos espaÃ±ol y britÃ¡nico , al tratarse de una instalaciÃ³n 
+    militar nuclear no espaÃ±ola " , y considerÃ³ " mÃ¡s relevante " la presencia de tÃ©cnicos espaÃ±oles durante las pruebas de comprobaciÃ³n previas al 
+    arranque del reactor reparado , ya_que " una mera visita de inspecciÃ³n no ofrecerÃ­a por sÃ­ misma informaciÃ³n suficiente " . Por su parte , las empresas 
+    privadas que ha consultado la Junta_de_AndalucÃ­a aseguran que el submarino , atracado en Gibraltar desde el 19_de_mayo para su reparaciÃ³n , se puede 
+    trasladar , segÃºn declarÃ³ hoy el consejero de la Presidencia , Gaspar_ZarrÃ­as . </p>
+
+    <p>En la misma lÃ­nea , los alcaldes de los municipios del Campo_de_Gibraltar contactaron con la compaÃ±Ã­a Smit_International , especializada en 
+    transportes marÃ­timos de envergadura y emergencias , para_que les informe sobre la posibilidad de realizar el traslado . SegÃºn informÃ³ el representante 
+    para EspaÃ±a de la compaÃ±Ã­a holandesa , Richard_Herzner , disponen de tres buques del tipo E , semisumergibles como los que actualmente efectÃºan el 
+    porte de dos submarinos de Holanda a Malasia , aunque en el caso del Tireless se requieren garantÃ­as respecto_a la seguridad del reactor nuclear . 
+    Por su parte , el ministro principal de Gibraltar , Peter_Caruana , dijo hoy que el comitÃ© de expertos nombrado por el Gobierno gibraltareÃ±o le ha 
+    informado de que no le consta que las reparaciones en el PeÃ±Ã³n supongan " ningÃºn peligro real " . Caruana explicÃ³ que los arreglos estÃ¡n " suspendidos "
+    a_la_espera_de que el Ministerio_de_Defensa britÃ¡nico elabore un nuevo proyecto de reparaciÃ³n , despuÃ©s de que se detectara que las dimensiones de la 
+    averÃ­a eran distintas de lo inicialmente previsto . El delegado del Gobierno en AndalucÃ­a , JosÃ©_Torres_Hurtado , asegurÃ³ que entiende la postura de 
+    los alcaldes del Campo_de_Gibraltar " porque a nadie nos gusta vivir en un sitio donde ademÃ¡s hay informaciones que crean alarma e inseguridad " , 
+    aunque pidiÃ³ calma y que se deje trabajar a los tÃ©cnicos y a los Gobiernos . Torres_Hurtado solicitÃ³ a los alcaldes que tengan en cuenta que Gibraltar 
+    no es un territorio de soberanÃ­a espaÃ±ola , y que confÃ­en en el Gobierno britÃ¡nico y en los tÃ©cnicos que estÃ¡n haciendo todo lo posible por resolver el 
+    problema </p> 
+  </contenido>
+</noticia>

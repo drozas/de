@@ -1,0 +1,233 @@
+\chapter{Tablas}
+\noindent
+En algunos documentos puede ser necesario incluir una tabla que ilustre o aclare
+nuestra narración.\par
+El entorno que permite describir tablas es:\newline
+
+\verb|{\begin{tabular}[características de la tabla]...\end{tabular}|
+%\begin{verbatim}
+%{\begin{tabular}[características de la tabla]...\end{tabular}
+%\end{verbatim}
+, donde\newline
+
+\verb|[características de la tabla]|podrá contener lo siguiente:
+
+\begin{itemize}
+	\renewcommand{\labelitemi}{$\bullet$}
+	\item ``\verb|l|'', para describir una columna con texto justicado a la
+	izquierda
+	\item ``\verb|r|'', para describir una columna con texto justicado a la derecha
+	\item ``\verb|c|'', para describir una columna con texto centrado
+	\item ``\verb|p{ancho}|'', para una columna que contenga texto con saltos de
+	línea
+	\item ``\verb|\|'', para una columna que queremos que vaya entre una línea
+	vertical
+\end{itemize}
+
+Cada filla de una tabla se separa de la siguiente mediante una indicación de
+salto de línea ``\verb|\\|".\par
+Los datos de una columna se separan de los de la siguiente utilizando el
+carácter ``\&''.\par
+Veamos un ejemplo:\newline
+
+\begin{tabular}{lcc}
+Descriptive levels & Precision & Recall \\
+General & 99.7\% & 99.4\% \\
+Document specific & 96.8\% & 96.3\% \\
+Proper noun & 94.4\% & 99.1\% \\
+\end{tabular}
+\newline
+
+El mismo ejemplo con separadores de línea vertical entre las columnas:\newline
+
+\begin{tabular}{|l|c|c|}
+Descriptive levels & Precision & Recall \\
+General & 99.7\% & 99.4\% \\
+Document specific & 96.8\% & 96.3\% \\
+Proper noun & 94.4\% & 99.1\% \\
+\end{tabular}
+\newline
+
+Si queremos separar unas filas de otras mediante líneas horizontales, debemos
+utilizar \verb|\hline|. \newline
+
+\begin{tabular}{|l|c|c|}
+\hline
+Descriptive levels & Precision & Recall \\
+General & 99.7\% & 99.4\% \\
+Document specific & 96.8\% & 96.3\% \\
+Proper noun & 94.4\% & 99.1\% \\
+\hline
+\end{tabular}
+\newline
+
+Más líneas
+\newline
+
+\begin{tabular}{|l|c|c|}
+\hline
+Descriptive levels & Precision & Recall \\
+\hline
+General & 99.7\% & 99.4\% \\
+\hline
+Document specific & 96.8\% & 96.3\% \\
+\hline
+Proper noun & 94.4\% & 99.1\% \\
+\hline
+\end{tabular}
+\newline
+
+Algunas líneas más
+\newline
+
+\begin{tabular}{||l|c|c||}
+\hline \hline
+Descriptive levels & Precision & Recall \\
+\hline \hline
+General & 99.7\% & 99.4\% \\
+\hline
+Document specific & 96.8\% & 96.3\% \\
+\hline
+Proper noun & 94.4\% & 99.1\% \\
+\hline \hline
+\end{tabular}
+\newline
+
+Queremos una tabla centrada
+\newline
+\begin{center}
+\begin{tabular}{||l|c|c||}
+\hline \hline
+Descriptive levels & Precision & Recall \\
+\hline \hline
+General & 99.7\% & 99.4\% \\
+\hline
+Document specific & 96.8\% & 96.3\% \\
+\hline
+Proper noun & 94.4\% & 99.1\% \\
+\hline \hline
+\end{tabular}
+\end{center}
+
+
+
+Para agrupar varias columnas en una se utiliza \verb|\multicolumn|. En el
+siguiente ejemplo se agrupan dos columnas en una:
+\newline
+
+\begin{tabular}{||l||c|c||c|c||} \hline\hline
+& \multicolumn{2}{c||}{Spanish} &
+\multicolumn{2}{c||}{English}\\ \hline
+Descriptive levels & Precision & Recall & Precision & Recall \\
+\hline\hline General & 99.7\% & 99.4\% & 98.6\% & 98.5\% \\
+\hline Document specific & 96.8\% & 96.3\% & 95.8\% & 95.6\% \\
+\hline Proper noun & 94.4\% & 99.1\% & 98.8\% & 99.8\% \\ \hline
+\hline
+\end{tabular}
+\newline
+
+Las tablas que se han definido hasta ahora aparecíaan en la posición en la
+que se han escrito en el documento \verb|.tex|.
+
+\section{Referencias a tablas}
+\noindent
+Sin embargo, en ocasiones puede no interesar incluir una tabla en el discurso de
+una narración, sino hacer una referencia a la tabla que puede estar ubicada en
+otra parte del documento. 
+En este caso la tabla (entorno tabular)debería estar incluida dentro de un
+entorno \verb|\begin{table}[ubicacion]...\end{table}| como en el ejemplo
+siguiente:
+
+\begin{verbatim}
+\begin{table}[h]
+\small \centering
+\begin{tabular}{||l||c|c||c|c||} \hline\hline
+& \multicolumn{2}{c||}{Spanish} &
+\multicolumn{2}{c||}{English}\\ \hline
+Descriptive levels & Precision & Recall & Precision & Recall \\
+\hline\hline General & 99.7\% & 99.4\% & 98.6\% & 98.5\% \\
+\hline Document specific & 96.8\% & 96.3\% & 95.8\% & 95.6\% \\
+\hline Proper noun & 94.4\% & 99.1\% & 98.8\% & 99.8\% \\ \hline
+\hline
+\end{tabular}
+\end{table}
+\end{verbatim}
+
+\begin{table}[h]
+\small \centering
+\begin{tabular}{||l||c|c||c|c||} \hline\hline
+& \multicolumn{2}{c||}{Spanish} &
+\multicolumn{2}{c||}{English}\\ \hline
+Descriptive levels & Precision & Recall & Precision & Recall \\
+\hline\hline General & 99.7\% & 99.4\% & 98.6\% & 98.5\% \\
+\hline Document specific & 96.8\% & 96.3\% & 95.8\% & 95.6\% \\
+\hline Proper noun & 94.4\% & 99.1\% & 98.8\% & 99.8\% \\ \hline
+\hline
+\end{tabular}
+\end{table}
+
+\par
+Se ha intentado que LATEX la muestre en la posición en la que la se ha
+escrito mediante \verb|\begin{table}[h]|. Si no hubiese cabido en esta parte de
+la página, \LaTeX la habría ubicado en la siguiente página. Los valores del
+argumento de ubicación pueden ser:
+
+\begin{itemize}
+	\renewcommand{\labelitemi}{$\bullet$}
+	\item \verb|"h":| aquí o lo más próximo posible donde se encuentra declarada
+	\item \verb|"t":|'' en la parte superior de una página
+	\item \verb|"p":|'' en la parte inferior de una página
+	\item \verb|"b":|'' en una página que sólo contenga tablas y figuras
+
+\end{itemize}
+
+En estos casos conviene que en la narración se haga referencia a la tabla.
+Esto se hace con \verb|~\ref{tabla1}|, escribiendo dentro del entorno de la
+tabla \verb|\label{tabla1}|.
+%%Esto es una referencia a la tabla: ~\ref{tabla1}
+
+\begin{verbatim}
+\begin{table}
+\begin{tabular}{||l||c|c||c|c||} \hline\hline
+& \multicolumn{2}{c||}{Spanish} &
+\multicolumn{2}{c||}{English}\\ \hline
+Descriptive levels & Precision & Recall & Precision & Recall \\
+\hline\hline General & 99.7\% & 99.4\% & 98.6\% & 98.5\% \\
+\hline Document specific & 96.8\% & 96.3\% & 95.8\% & 95.6\% \\
+\hline Proper noun & 94.4\% & 99.1\% & 98.8\% & 99.8\% \\ \hline
+\hline
+\end{tabular}
+\label{tabla1}
+\caption{Results of description levels encoding}
+\end{table}
+\end{verbatim}
+
+
+\par
+Suele ser conveniente que la tabla tenga un título (pie de tabla). Esto
+permite que se aclare su contenido independientemente de donde aparezca. El
+título se añnade con \verb|\caption{...}|.
+\par
+
+Se puede ver un ejemplo en la tabla ~\ref{tabla1}
+%%Duda: Problema con posicionamiento de esta tabla. He probado con otro
+% valores, pero no hay manera.
+\begin{table}[h]
+\begin{tabular}{||l||c|c||c|c||} \hline\hline
+& \multicolumn{2}{c||}{Spanish} &
+\multicolumn{2}{c||}{English}\\ \hline
+Descriptive levels & Precision & Recall & Precision & Recall \\
+\hline\hline General & 99.7\% & 99.4\% & 98.6\% & 98.5\% \\
+\hline Document specific & 96.8\% & 96.3\% & 95.8\% & 95.6\% \\
+\hline Proper noun & 94.4\% & 99.1\% & 98.8\% & 99.8\% \\ \hline
+\hline
+\end{tabular}
+\label{tabla1}
+%\begin{center}
+\caption{Results of description levels encoding}
+%\end{center}
+\end{table}
+
+\par
+Las referencias no sólo se utilizan con tablas, sino que se puede hacer
+referencia a una figura, sección o capítulo de un documento.

@@ -1,0 +1,53 @@
+%%This is a very basic article template.
+%%There is just one section and two subsections.
+\documentclass[titlepage]{book}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % borrar todos los ajustes
+% En lo siguiente, fancyhead sirve para configurar la cabecera, fancyfoot para
+% configurar el pie de página.
+% Justificación: C=centered, R=right, L=left, (nada)=LRC
+% Página: O=odd, E=even, (nada)=OE
+\fancyhead[RO]{Documentación electrónica} 
+\fancyhead[LE]{Práctica 7}
+\fancyfoot[C]{\thepage}
+
+
+
+\title{ {\Large {\bf Práctica 7 \LaTeX \\}Documentación Electrónica\\}
+{\small Curso 2008/2009}}
+%Declaramos fecha pero la dejamos vacía, porque si no mete una automáticamente
+\date{}
+
+
+\begin{document}
+
+%%Por definición los llama cuadros, renombramos
+\renewcommand{\tablename}{Tabla}
+\renewcommand{\listtablename}{Lista de Tablas}
+
+\maketitle
+\tableofcontents
+\listoftables
+
+
+\input{capitulos/capitulo_01}
+
+\input{capitulos/capitulo_02}
+
+\input{capitulos/capitulo_03}
+
+\input{capitulos/capitulo_04}
+
+\input{capitulos/capitulo_05}
+
+\nocite*
+
+%%Para indicar el uso de bibliografía
+\bibliography{bibliografia}
+\bibliographystyle{alpha}
+
+\end{document}

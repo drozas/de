@@ -1,0 +1,36 @@
+\chapter{Índices}
+
+\section{Índice de contenidos}
+\noindent
+La creación de índices en \LaTeX es totalmente automática, lo cual supone una
+gran ventaja ya que el usuario no tiene la necesidad de ir revisando los números
+de página de cada capitulo.
+Para generar un índice de contenidos se utiliza el comando
+\verb|\tableofcontents| en el punto del documento donde se quiere que aparezca
+el índice. Sería necesario compilar el fichero \verb|.tex| dos veces para que se
+enlace bien y genere de forma correcta el índice.
+
+\section{Índice de figuras y tablas}
+Para generar un índice de figuras se utiliza el comando \verb|\listoffigures| y
+para generar un índice de tablas el comando \verb|\listoftables|. Se da la
+orden en el punto donde se quiere que aparezca el índice correspondiente.
+Un ejemplo típico para generar índices en las páginas iniciales es el
+siguiente:
+
+\begin{verbatim}
+\begin{document}
+\maketitle
+\newpage % Salto de página
+\tableofcontents % indice de contenidos
+\newpage % Salto de pagina
+\listoffigures % Indice de figuras
+\newpage % Salto de pagina
+\listoftables % Indice de tablas
+\newpage % Salto de pagina
+...
+\end{document}
+\end{verbatim}
+Como en el capítulo 2 se ha creado al menos una tabla con título se pide
+generar un índice de tablas que tendría una única entrada.
+%%No se agrega automáticamente, pero consta en el enunciado
+%\newpage

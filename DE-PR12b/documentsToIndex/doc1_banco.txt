@@ -1,0 +1,13 @@
+<noticia>
+  <titulo>FILIAL BBVA MEXICO Y BANCOMER INICIAN CONVERSACION PARA ALIANZA</titulo>
+  <contenido>
+    <p>Los bancos mexicanos BBV_Probursa, filial del BBVA, y el Grupo_Financiero_Bancomer han iniciado conversaciones tendentes a desarrollar una alianza, 
+    segÃºn han comunicado estas entidades a las respectivas comisiones del mercado de valores de EspaÃ±a y MÃ©xico. </p>
+
+    <p>Fuentes del BBVA confirmaron a EFE que estas conversaciones se encuentran en los primeros estadios y que aÃºn son "incipientes", con lo que todavÃ­a 
+    no se puede hablar de que fÃ³rmulas se estÃ¡n estudiando y que consecuencias pueden tener estos contactos. El Grupo_Financiero_Bancomer, el segundo mÃ¡s 
+    importante de MÃ©xico tras Banamex-Accival ( BANACCI ) , tiene activos por valor de 26.000_millones_de_euros ( 4,32_billones_de_pesetas ) , equivalentes  
+    al 19,05 del total del sistema bancario mexicano . Por su parte , BBV_Probursa cuenta con unos activos totales superiores a los 8.500_millones_de_euros 
+    ( 1,41_billones_de_pesetas )</p> 
+  </contenido>
+</noticia>

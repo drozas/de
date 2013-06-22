@@ -1,0 +1,54 @@
+8
+
+dir
+293
+https://www.gavab.es/svn/de/g03/ClusteringG03/lib
+https://www.gavab.es/svn/de
+
+
+
+2009-05-07T13:17:53.744214Z
+97
+d.rozas
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1f73759c-d7aa-4080-aee1-9b1049bd22a0
+
+lucene-2_4_1_svn.jar
+file
+
+
+
+
+2009-05-07T13:21:45.000000Z
+8b7f8ac5548f320d600ea830a79bbb15
+2009-05-07T13:17:53.744214Z
+97
+d.rozas
+has-props
+
+lucene-snowball-2.4.1.jar
+file
+
+
+
+
+2009-05-07T13:30:58.000000Z
+be5602b62fc6aa8452c4a1f999712f0e
+2009-05-07T13:17:53.744214Z
+97
+d.rozas
+has-props
+

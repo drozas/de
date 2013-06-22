@@ -1,0 +1,23 @@
+<noticia>
+  <titulo>CARUANA AFIRMA QUE NO LE CONSTA NINGUN PELIGRO EN REPARACIONES</titulo>
+  <contenido>
+    <p>El ministro principal de Gibraltar , Peter_Caruana , dijo hoy que el comité de expertos nombrado por el Gobierno gibraltareño le ha informado de que 
+    no le consta que la reparaciones en el Peñón del submarino nuclear " Tireless " supongan " ningún peligro real " . Caruana , que asistió en 
+    La_Línea_de_la_Concepción ( Cádiz ) a la inauguración del Instituto_Transfronterizo_del_Estrecho_de_Gibraltar , dijo a los periodistas que los arreglos   
+    están " suspendidos " a_la_espera_de que el Ministerio_de_Defensa británico elabore un nuevo proyecto de reparación , después de que se detectara que 
+    las dimensiones de la avería eran distintas de lo inicialmente previsto . Agregó que será entonces cuando se conozcan las consecuencias que puedan 
+    derivarse de las reparaciones del sumergible averiado , varado en el muelle_Sur de Gibraltar desde el 19_de_mayo , y apuntó que el nuevo plan de 
+    reparaciones volverá a ser evaluado por el comité de expertos de su gobierno . </p>
+
+    <p>Caruana dijo que al ejecutivo de Gibraltar no le consta la posibilidad de que el Gobierno británico pretenda invertir 15.000_millones_de_pesetas en 
+    la colonia para la instalación de " celdas calientes " , infraestructuras destinadas a la descontaminación de las piezas del reactor del " Tireless " 
+    Achacó a " especulaciones de la prensa española " esa información , apuntada hace unos días por el alcalde de Algeciras , Patricio_González ( PA ) , 
+    quien manifestó su preocupación por que esas instalaciones supongan la conversión del puerto del Peñón en base permanente de reparaciones de navíos 
+    nucleares . También atribuyó a " especulaciones alarmistas y sin fundamento " la noticia publicada recientemente por el diario londinense " 
+    The_Guardian " , según el cual el reactor del submarino estuvo a_punto_de fundirse , e insistió en que no les consta este extremo a sus expertos 
+    independientes , " los únicos de los que me fío " , precisó . El ministro principal , que consideró lógico y respetable que la población 
+    campogibraltareña se manifieste hoy en Los_Barrios ( Cádiz ) , lamentó que el alcalde de Algeciras fuera increpado hace unos días por un grupo de 
+    gibraltareños al interponer una denuncia en la Corte_de_Justicia_del_Peñón contra el ministerio de Defensa británico , pero consideró que el regidor 
+    debería haber anunciado " por adelantado " su visita </p> 
+  </contenido>
+</noticia>

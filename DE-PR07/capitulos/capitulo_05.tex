@@ -1,0 +1,131 @@
+\chapter{Bibliografía}
+\noindent
+
+Se puede generar bibliografía de dos formas diferentes: haciendo uso del entorno
+\verb|\begin{thebibliography}| o bien usando el programa BibTeX.
+La primera opción es más básica y, por tanto, menos flexible y potente,
+aunque quizá pueda resultar más sencilla. La sintaxis es la siguiente:
+
+\begin{verbatim}
+\begin{thebibliography}{longitud}
+...
+\bibitem [Leyenda]{Etiqueta} Texto
+...
+\end{thebibliography}
+\end{verbatim}
+
+donde \verb|longitud| es una cadena de anchura mayor o igual a la máxima que
+va a ser utilizada en la numeración; leyenda es un parámetro opcional que
+representa la identificación que se colocaría en el texto en el lugar donde se
+ubique la cita (\LaTeX tiene una identificación numérica por defecto);
+\verb|etiqueta| es la cadena que se usa para referirse a un item concreto de la
+lista bibliográfica y, por último, \verb|texto| es la cita en sí (autor, título,
+editorial, etc.), con el formato y orden que se quiera darle.
+\par
+Para citar un elemento de la bibliografía desde cualquier parte del documento
+se usa el comando \verb|\cite{etiqueta}|. A continuación se muestra un ejemplo:
+
+\begin{verbatim}
+\begin{thebibliography}{99}
+\bibitem{Hahn} Hahn, J.``\LaTeX $\,$ for eveyone''.
+Prentice Hall, New Jersey, 1993.
+\end{thebibliography}
+\end{verbatim}
+
+La referencia al libro anterior sería:
+
+\begin{verbatim}
+	En \cite{Hahn} se pueden ver los aspectos relativos al ``Picture Environment''
+\end{verbatim}
+
+Donde el resultado es:
+
+\begin{verbatim}
+	En [1] se pueden ver los aspectos relativos al "Picture Environment".
+\end{verbatim}
+
+Con el entorno anterior el autor tiene completa libertad para definir el formato
+de la bibliografía. Esto puede ser ventajoso pero, por otra parte, puede
+resultar un inconveniente si se quiere por ejemplo reordenar los items. Como
+alternativa a este entorno se puede utilizar el programa BibTeX, que se integra
+con \LaTeX para generar, de forma automática, un entorno \verb|thebibliography|
+siguiendo una serie de reglas de formato establecidas.
+Para usar BibTeX hay que definir la base de datos de citas bibliográficas que
+se quiere incluir en el documento. Para ello se edita un fichero con extensión
+\verb|.bib| que tiene un formato concreto (contiene una serie de registros
+especiales, uno por referencia). Hay varios tipos de registros posibles, uno por cada tipo
+de referencia que se puede incluir, por ejemplo los siguientes:
+
+\begin{verbatim}
+@BOOK{LibroLatex,
+author = {{Cascales Salinas, Bernardo} and others},
+publisher = {ADI},
+title = {\LaTeX{}, una imprenta en sus manos},
+year = {2000}
+}
+
+@ARTICLE{armistice,
+author = {{Cabrero, David}, {Abalde, Carlos},
+{Varela, Carlos} and {Castro, Laura}},
+title = {ARMISTICE: An Experience Developing
+Management Software with Erlang},
+journal = {Principles, Logics, and Implementations of
+High-Level Programming Languages (PLI'03)},
+month = {Agosto},
+year = {2003}
+}
+\end{verbatim}
+
+Las citas se incluyen en el texto utilizando el comando \verb|\cite{etiqueta}|,
+con la particularidad de que sólo aquellos documentos de la base de datos que
+sean mencionados en un \verb|\cite| se visualizarán en la versión compilada
+del documento. Para visualizar algún documento no referenciado hay que indicarlo con
+el comando \verb|\nocite{etiqueta}|. Si se desea que aparezcan todos los
+elementos presentes en la base de datos se puede emplear \verb|\nocite*|.
+Una vez creado el fichero de bibliografía su uso se indica incluyendo las
+siguientes líneas antes de la finalización del documento
+(\verb|\end{document}|):
+
+\begin{verbatim}
+\bibliography{ficherobase}
+\bibliographystyle{estilo}
+\end{verbatim}
+
+donde ficherobase es el nombre del fichero de la base de datos sin la extensión
+\verb|.bib| y estilo es uno de los siguientes:
+
+\begin{itemize}
+	\renewcommand{\labelitemi}{$\bullet$}
+	\item \verb|plain| Ordena las entradas alfabéticamente y las numera. El orden
+	que establece es: autor, año, título.
+	\item \verb|usrt| Igual que plain pero las entradas se ordenan por orden de
+	citación en el documento.
+	\item \verb|alpha| A cada entrada le asigna una etiqueta basada en el nombre
+	del autor y el año de publicación. El orden que establece es: etiqueta, autor, año y título.
+	\item \verb|abbrv| Equivalente a \verb|plain|, hace que las entradas sean más
+	pequeñas al abreviar los nombres de los autores, meses y nombres de las revistas.
+\end{itemize}
+
+
+Una vez hecho esto, es necesario compilar la bibliografía utilizando la herramienta
+\verb|bibtex|. Este programa recibe como argumento un fichero \verb|.aux|,
+procedente de una primera compilación del documento LATEX, en la que se
+identifican todas las citas bibliográficas a las que se ha hecho referencia.
+Tras el procesado con \verb|bibtex| será necesaria una nueva compilación con
+latex para que queden resueltas:
+
+\begin{verbatim}
+$ latex midocumento(.tex)
+$ bibtex midocumento(.aux)
+$ latex midocumento(.tex)
+\end{verbatim}
+
+Es importante destacar que el fichero \verb|.aux| que se pasa a bibtex es el
+resultado de la compilación del documento \verb|.tex|, y no el fichero de la
+base de datos en sí (éste será encontrado por la herramienta gracias a que
+estña incluido en el anterior por medio del comando \verb|\bibliography|).
+Una vez que se sabe cómo generar la bibliografía, se debe probar a generar
+una listado de referencias bibliográficas en el documento actual.
+
+
+\par Esto es un ejemplo de cita: \cite{armistice}

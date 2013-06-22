@@ -1,0 +1,4 @@
+- ¿Alguna forma de que \verbatim no introduzca un retorno de carro?: \verb|blah blah|
+- ¿Cómo cambiar el formato de : a) a (a) en listas enumeradas?
+- Problema para mostrar las imágenes. ¿quizá porque estoy creando un pdf en lugar de un ps?.
+%%Hay que crear un dvi y después pasarlo a pdf con dvipdf

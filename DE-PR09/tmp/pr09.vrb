@@ -1,0 +1,17 @@
+A continuación se presenta un ejemplo de listas numeradas con pausa:
+\begin{enumerate}
+  \item Primer ítem.
+  \pause
+  \item Segundo item.
+  \pause
+  \item Tercer item.
+  \pause
+  \item Cuarto item.
+  \pause
+\end{enumerate}
+
+Para que se vea con cierta transparencia los items que no se quieren tratar en
+el momento se puede poner el siguiente comando en el preámbulo del documento
+
+\verb|\beamersetuncovermixins{\opaqueness<1>{25}}{\opaqueness<2->{15}}|
+

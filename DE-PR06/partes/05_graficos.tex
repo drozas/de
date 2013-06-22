@@ -1,0 +1,122 @@
+\section{Gráficos EPS}
+\noindent
+La tercera parte de la práctica está dedicada al manejo de gráficos. Para que
+\LaTeX{} los pueda entender éstos deben estar en un formato adecuado.
+La mejor calidad de impresión se obtiene con el formato \verb|.eps| (PostScript
+Encapsulado, EPS). En principio se pueden utilizar otros formatos como
+\verb|.png|, \verb|.tiff|, \verb|.jpeg|, aunque en realidad depende de la
+plataforma y de la versión de \LaTeX{} que se puedan incluir o que la inclusión
+sea más o menos sencilla.
+
+\subsection{Gráficos EPS en su posición}
+\noindent
+Hay numerosas aplicaciones que generan ficheros .eps: Maple, Mathematica, MATLAB, Corel, etc.
+Una vez que se tiene una imagen \verb|.eps| para incluirla en un fichero \LaTeX{} es
+necesario utilizar macros que se encuentran en el paquete \verb|graphics|, e
+incluir este paquete en el preámbulo del documento \verb|.tex| con la siguiente
+instrucción: \begin{verbatim}\usepackage[driver]{graphicx}\end{verbatim} Donde
+\verb|.driver| es el conversor de formato \verb|.dvi| formato \verb|.ps|. En
+este caso el conversor es \verb|dvips|.\\
+Esta información es necesaria porque los gráicos los incluye en el fichero \verb|.dvi|
+el driver de la impresora.\par
+La orden para incluir un gráfico sería:
+\begin{verbatim}\includegraphics[clave=valor,...]{grafico}\end{verbatim}
+Los pares clave-valor se emplean para modificar el ancho, la altura y el giro
+del gráfico. Las claves son:
+
+\begin{itemize}
+  \item \verb|height| (escalado al ancho)
+  \item \verb|width| (escalado a la altura)
+  \item \verb|angle| (giro)
+\end{itemize}
+
+
+¿Cuál sería el efecto de la siguiente orden?
+\begin{verbatim}\includegraphics[width=4cm]{veritas.eps}\end{verbatim}
+\includegraphics[width=4cm]{veritas.eps}
+
+Veamos el efecto de la siguiente orden:
+\begin{verbatim}\includegraphics[height=3cm]{veritas.eps}\end{verbatim}
+\includegraphics[height=3cm]{veritas.eps}
+
+Por último veamos el efecto de la siguiente orden:
+\begin{verbatim}\includegraphics[height=5cm, angle=45]{veritas.eps}\end{verbatim}
+\includegraphics[height=5cm, angle=45]{veritas.eps}
+
+%Añadir otras dos aquí con el formato especificado
+
+%\includegraphics[height=5cm, angle=45]{veritas.eps}
+
+%\includegraphics[height=5cm, angle=45]{veritas.eps}
+
+
+\subsection{Gráficos EPS en elementos flotantes}
+\noindent
+En los ejemplos anteriores los gráficos han aparecido en la posición en la que
+se han escrito las correspondientes órdenes \verb|\includegraphics|.\par
+Para no preocuparse de si el gráfico va a entrar o no en la página en el punto
+en el que se había escrito la orden de inclusión y que pueda quedar partido, lo
+que se hace es dejar ``flotar'' el gráfico hacia la siguiente página.
+La página actual rellenará el hueco que quede con texto. El elemento flotante
+para la inserción de gráficos es \verb|figure|.\par
+
+Veamos un ejemplo de uso de este elemento flotante:
+\begin{verbatim}
+\begin{figure}
+ \includegraphics[width=7cm]{veritas.eps}
+\end{figure}
+\end{verbatim}
+\begin{figure}
+ \includegraphics[width=7cm]{veritas.eps}
+\end{figure}
+
+Veamos otro ejemplo de uso de este elemento flotante:
+\begin{verbatim}
+\begin{figure}
+ \begin{center}
+ \includegraphics[width=4cm, angle=90]{veritas.eps}
+ \end{center}
+\end{figure}
+\end{verbatim}
+
+\begin{figure}
+ \begin{center}
+ \includegraphics[width=4cm, angle=90]{veritas.eps}
+ \end{center}
+\end{figure}
+
+Se pueden indicar preferencias de ubicación:
+
+
+\begin{itemize}
+	\item ``h'' (``{\it here}''): aquí o en la posición más próxima posible donde
+	se encuentra declarada
+	\item ``t'' (``{\it top}''): en la parte superior de una página 
+	\item ``b'' (``{\it bottom}''): en la parte inferior de una página
+	\item ``p'' (``{\it page}''): en una página especial que sólo contiene objetos
+	flotantes (tablas y figuras)
+\end{itemize}
+
+Es razonable utilizar una referencia al elemento flotante. Con \verb|\label{}| se
+proporciona una etiqueta a la figura y con \verb|\ref{}| se hace referencia a
+la figura indicando la etiqueta anterior.\par
+Un ejemplo de como etiquetar una figura para luego referenciarla es:
+
+\begin{verbatim}
+\begin{figure}
+ \begin{center}
+ \includegraphics[width=4cm, angle=180]{veritas.eps}
+ \end{center}
+ \caption{\label{figura1}Gráfico de prueba}
+\end{figure}
+\end{verbatim}
+
+\begin{figure}
+ \begin{center}
+ \includegraphics[width=4cm, angle=180]{veritas.eps}
+ \end{center}
+ \caption{\label{figura1}Gráfico de prueba}
+\end{figure}
+
+Ahora se puede decir que la figura 1 presenta un gráfico rotado 180 grados
+(ejemplo de referencia a una figura).

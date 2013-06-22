@@ -1,0 +1,21 @@
+<noticia>
+  <titulo>LA PRIMERA NIETA DE LOS REYES SERA BAUTIZADA EL DIA 11</titulo>
+  <contenido>
+    <p>La hija de la Infanta_Elena y Jaime_de_Marichalar , Victoria_Federica , será bautizada el próximo_once_de_octubre en el Palacio_de_la_Zarzuela , 
+    informaron hoy fuentes de la Casa_del_Rey . La primera hija de los Duques_de_Lugo , y primera nieta de los Reyes , será apadrinada por sus tíos el 
+    Príncipe_de_Asturias y Ana_de_Marichalar , y la ceremonia religiosa será oficiada por el Cardenal_Arzobispo_de_Madrid , Antonio_María_Rouco_Varela . </p>
+    
+    <p>Las fuentes indicaron que la niña , nacida el pasado_nueve_de_septiembre , recibirá los nombres de Victoria_Federica en un acto de muy similares 
+    características a los que se llevaron a cabo con motivo del bautismo de su hermano Felipe_Juan_Froilán , y su primo , Juan_Valentín , hijo de la 
+    Infanta_Cristina e Iñaki_Urdangarín . El bautizo de Victoria_Federica se realizará dentro del ámbito familiar de los Duques_de_Lugo , aunque , como 
+    excepciones , están previstas las asistencias del presidente del Gobierno , José_María_Aznar , y su esposa , Ana_Botella , y del equipo médico que 
+    atendió a Doña_Elena en el alumbramiento , encabezado por el doctor Emilio_Esteban_Carracedo . También presenciarán la ceremonia , que tendrá lugar 
+    en la residencia de los Reyes el día_once por la tarde , los máximos responsables de la Casa_del_Rey . </p>
+  
+    <p>El acristianamiento de Victoria_Federica , como en las dos ocasiones precedentes , irá precedido de una comparecencia de la pequeña ante los medios 
+    de comunicación , acompañada por una amplia representación de su familia materna y paterna . La Infanta_Elena y Jaime_de_Marichalar escogieron los n
+    nombres de su hija , según informó el Duque_de_Lugo , en_recuerdo_de la Reina_Victoria_Eugenia , tatarabuela de la niña , y de Federica_de_Grecia , 
+    bisabuela por parte materna . Para la administración del Sacramento , monseñor Rouco será ayudado por el arzobispo castrense , José_Manuel_Estepa , y 
+    en la ceremonia se utilizará de nuevo la palangana de plata sobredorada que se emplea como pila bautismal en el Palacio_Real </p> 
+  </contenido>
+</noticia>

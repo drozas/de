@@ -1,0 +1,22 @@
+<noticia>
+  <titulo>HAY "DEMASIADAS ZONAS DE SOMBRA" SOBRE ACCIDENTE, SEGUN ABOGADO
+</titulo>
+  <contenido>
+    <p>El informe preliminar sobre el accidente del Concorde en el que murieron 113 personas el pasado_25_de_julio deja " demasiadas zonas de sombra " , 
+    afirmó el abogado de las víctimas de tierra del siniestro , Karim_Ouchikh . En una entrevista publicada hoy por el diario " Le_Parisien " , el letrado 
+    señala que , tras conocer las consecuencias del informe , ha solicitado a la Oficina_de_Investigación_de_Accidentes ( BEA ) que se investigue a 
+    Goodyear , la empresa fabricante de los neumáticos utilizados en el Concorde accidentado . </p>
+
+    <p>El informe , dado a conocer esta semana por la BEA , muestra como única certeza que fue la explosión de un neumático la que originó la catástrofe y 
+    desencadenó una serie de fallos que provocaron la caída del avión supersónico . El reventón del neumático se debió a que el avión rodó sobre una lámina 
+    de unos 43 centímetros de largo y que , según sus características , procedía de otro avión . Sin embargo , al presentar el informe ayer , viernes , y 
+    reconocer la existencia de " un problema ligado al neumático del Concorde " , el presidente de la BEA , Paul-Louis_Arslanian , indicó que " no es la 
+    marca del neumático ( Goodyear ) lo que se cuestiona sino el neumático del Concorde " . A su juicio , serán necesarios " meses e incluso años " antes 
+    de poder establecer un informe final que explique las causas del accidente , concluyó .</p>
+
+    <p> La divulgación del informe y las posteriores explicaciones de la BEA han levantado una polémica sobre la limpieza de la pista desde la que despegó 
+    el Concorde . La revisión de las 15.00 hora local ( 13.00 GMT ) , prevista para una hora y media antes del despegue del Concorde , no tuvo lugar . Fue 
+    sustituida por un ejercicio de los bomberos de Aeropuertos_de_París ( ADP ) , empresa que gestiona los aeropuertos parisienses de 
+    Roissy-Charles-de-Gaulle , desde donde despegó el avión accidentado , y de Orly </p> 
+  </contenido>
+</noticia>

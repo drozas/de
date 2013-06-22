@@ -1,0 +1,8 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\'on del problema}{3}
+\contentsline {section}{\numberline {2}Dise\~no e implementaci\'on}{4}
+\contentsline {subsection}{\numberline {2.1}Paquetes}{4}
+\contentsline {subsection}{\numberline {2.2}Descripci\'on del algoritmo}{5}
+\contentsline {subsection}{\numberline {2.3}Parseado}{6}
+\contentsline {subsection}{\numberline {2.4}Clustering y criterios de b\'usqueda}{7}
+\contentsline {section}{\numberline {3}Transformaci\'on de los resultados}{8}

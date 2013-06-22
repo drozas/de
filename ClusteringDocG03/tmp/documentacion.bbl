@@ -1,0 +1,18 @@
+\begin{thebibliography}{htt09b}
+
+\bibitem[hs09]{apuntes}
+http://www.escet.urjc.es/ smontalvo/de/material.html.
+\newblock Apuntes de clase.
+\newblock Mayo 2009.
+
+\bibitem[htt09a]{lucene}
+http://lucene.apache.org/java/docs/.
+\newblock Página principal de lucene.
+\newblock Mayo 2009.
+
+\bibitem[htt09b]{xslt}
+http://www.w3.org/TR/xslt.
+\newblock Xslt (página del w3c).
+\newblock Mayo 2009.
+
+\end{thebibliography}

@@ -1,0 +1,7 @@
+Dudas PR05:
+
+-¿Hay alguna forma de indicarle qué tipo de referencia es la que debería tomar?
+Ej.: atributo profesores IDREFS en asignatura, debe apuntar al id de tipo "profesor"
+
+-¿Tiene sentido reusar elementos como "nombre"...aunque uno sea para una asignatura
+y otra para el nombre de un profe?

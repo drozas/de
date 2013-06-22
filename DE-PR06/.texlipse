@@ -1,0 +1,13 @@
+#TeXlipse project settings
+#Tue Mar 31 15:50:28 CEST 2009
+builderNum=0
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=dvi
+tempDir=tmp
+mainTexFile=pr06.tex
+outputFile=pr06.dvi
+langSpell=en
+markDer=true
+srcDir=

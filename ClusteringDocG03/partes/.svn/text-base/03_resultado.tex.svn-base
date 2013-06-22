@@ -1,0 +1,13 @@
+\section{Transformación de los resultados}
+
+Tal y como se especificaba en los requisitos, el proceso de transformación de
+los resultados es el siguiente:
+\begin{itemize}
+  \item Generamos un documento XML con el API DOM a partir del objeto que
+  almacena la lista de clusters.
+  \item Dicho documento XML es transformado mediante una hoja de estilo XSLT en
+  un documento HTML que para cada cluster muestra los títulos de las noticias
+  que pertenecen a él, con un enlace al fichero XML con la noticia original.
+  \item Además dicho HTML contiene una referencia a una hoja de estilo CSS para
+  obtener una presentación más visual.
+\end{itemize}

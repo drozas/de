@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<biblioteca>
+	<libro year="2008">
+		<titulo>Cuatro días de Enero</titulo>
+		<autor>Jordi Sierra I Fabra</autor>
+		<genero>Novela Contemporánea</genero>
+		<editorial>Plaza &amp; Janes Editores, S.A</editorial>
+		<isbn>9788401336645</isbn>
+	</libro>
+	<libro year="1998">
+		<titulo>El puño de Dios</titulo>
+		<autor>Frederick Forsyth</autor>
+		<genero>Novela Historica</genero>
+		<editorial>Plaza y Janés</editorial>
+		<isbn>8484502449</isbn>
+	</libro>
+	<libro year="2004">
+		<titulo>El medico</titulo>
+		<autor>Noah Gordon</autor>
+		<genero>Ficción Historica</genero>
+		<editorial>Ediciones B</editorial>
+		<isbn>8466616381</isbn>
+	</libro>
+	<libro year="2000">
+		<titulo>El cuarto Protocolo</titulo>
+		<autor>Frederick Forsyth</autor>
+		<genero>Novela Policíaca</genero>
+		<editorial>DeBolsillo</editorial>
+		<isbn>8497595122</isbn>
+	</libro>
+	<libro year="2007">
+		<titulo>El niño con el pijama de rayas</titulo>
+		<autor>John Boyne</autor>
+		<genero>Novela Anglosajona</genero>
+		<editorial>Publicaciones y Ediciones Salamandra
+S.A.</editorial>
+		<isbn>9788498380798</isbn>
+	</libro>
+	<libro year="2008">
+		<titulo>EL LIBRO DE NOBAC</titulo>
+		<autor>Federico Fernández Giordano</autor>
+		<genero>Ciencia Ficción</genero>
+		<editorial>Ediciones Minotauro</editorial>
+		<isbn>9788445076927</isbn>
+	</libro>
+</biblioteca>

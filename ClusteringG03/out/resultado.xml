@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<CLUSTERS medida="0.87181884">
+    <CLUSTER id="0">
+        <NOTICIA id="0">
+            <NOMBRE>20000102_606_C33.source.es</NOMBRE>
+            <TITULO>La madre de el Rey falleciÃ³ a las 15 horas </TITULO>
+            <URL>../news/20000102_606_C33.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000102_671_C33.source.es</NOMBRE>
+            <TITULO>Monteseirin recuerda vÃ­nculos especiales y cariÃ±o con Sevilla </TITULO>
+            <URL>../news/20000102_671_C33.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20000102_614_C33.source.es</NOMBRE>
+            <TITULO>FalleciÃ³ la madre de el Rey Juan Carlos de EspaÃ±a </TITULO>
+            <URL>../news/20000102_614_C33.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20000102_633_C33.source.es</NOMBRE>
+            <TITULO>Francisco Frutos expresa el pesa me en nombre de IU </TITULO>
+            <URL>../news/20000102_633_C33.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="4">
+            <NOMBRE>20000102_623_C33.source.es</NOMBRE>
+            <TITULO>Pimentel manda a el Rey un mensaje de condolencia por fallecimiento </TITULO>
+            <URL>../news/20000102_623_C33.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="5">
+            <NOMBRE>20000102_624_C33.source.es</NOMBRE>
+            <TITULO>Sampaio transmite condolencias a el Rey Juan Carlos </TITULO>
+            <URL>../news/20000102_624_C33.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="6">
+            <NOMBRE>20001201_270821_C25.source.es</NOMBRE>
+            <TITULO>Rafter : " Voy a ganar uno o los dos partidos que voy a jugar " </TITULO>
+            <URL>../news/20001201_270821_C25.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="1">
+        <NOTICIA id="0">
+            <NOMBRE>20000102_647_C33.source.es</NOMBRE>
+            <TITULO>Chaves transmite el dolor por una " Andaluza de vocaciÃ³n " </TITULO>
+            <URL>../news/20000102_647_C33.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000902_193880_C2.source.es</NOMBRE>
+            <TITULO>Buque apresado con 10 toneladas cocaÃ­na atracÃ³ en Gran Canaria </TITULO>
+            <URL>../news/20000902_193880_C2.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="2">
+        <NOTICIA id="0">
+            <NOMBRE>20000502_97289_C34.source.es</NOMBRE>
+            <TITULO>Iglesias pide la suspensiÃ³n de la ejecuciÃ³n de JoaquÃ­n MartÃ­nez </TITULO>
+            <URL>../news/20000502_97289_C34.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="3">
+        <NOTICIA id="0">
+            <NOMBRE>20001002_220507_C5.source.es</NOMBRE>
+            <TITULO>Aznar y Fox tratarÃ¡n en Madrid futuro cooperaciÃ³n antiterrorista </TITULO>
+            <URL>../news/20001002_220507_C5.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="4">
+        <NOTICIA id="0">
+            <NOMBRE>20001201_270502_C6.source.es</NOMBRE>
+            <TITULO>Concedidos 1.443 indultos , entre ellos a LiaÃ±o , Filesa y Tani </TITULO>
+            <URL>../news/20001201_270502_C6.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20001201_270698_C6.source.es</NOMBRE>
+            <TITULO>1.443 indultos , de ellos LiaÃ±o , tres Filesa , Tani y 460 insumisos </TITULO>
+            <URL>../news/20001201_270698_C6.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="5">
+        <NOTICIA id="0">
+            <NOMBRE>20000102_753_C22.source.es</NOMBRE>
+            <TITULO>Denuncian que Oviedo estuvo en la casa de diputado argentino </TITULO>
+            <URL>../news/20000102_753_C22.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000601_121929_C22.source.es</NOMBRE>
+            <TITULO>Dudan de supuesta detenciÃ³n de Oviedo </TITULO>
+            <URL>../news/20000601_121929_C22.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20000601_121933_C22.source.es</NOMBRE>
+            <TITULO>La policÃ­a desconoce supuesta detenciÃ³n de Oviedo en Argentina o Brasil </TITULO>
+            <URL>../news/20000601_121933_C22.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20000701_147594_C22.source.es</NOMBRE>
+            <TITULO>Gonzalez Macchi : Oviedo dejÃ³ de ser preocupaciÃ³n para Mercosur </TITULO>
+            <URL>../news/20000701_147594_C22.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="6">
+        <NOTICIA id="0">
+            <NOMBRE>20000302_48633_C27.source.es</NOMBRE>
+            <TITULO>Filial BBVA MÃ©xico y BANCOMER inician conversaciÃ³n para alianza </TITULO>
+            <URL>../news/20000302_48633_C27.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000302_49394_C27.source.es</NOMBRE>
+            <TITULO>BBV y BANCOMER negocian programa de alianzas y capitalizaciÃ³n </TITULO>
+            <URL>../news/20000302_49394_C27.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20000701_147753_C20.source.es</NOMBRE>
+            <TITULO>Zedillo hace Ãºltimo llamamiento a la poblaciÃ³n para que vote </TITULO>
+            <URL>../news/20000701_147753_C20.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20001001_219650_C5.source.es</NOMBRE>
+            <TITULO>Fox colaborarÃ¡ para que la justicia actue en casos etarras </TITULO>
+            <URL>../news/20001001_219650_C5.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="4">
+            <NOMBRE>20000702_147836_C20.source.es</NOMBRE>
+            <TITULO>Zedillo prefiere que " la gente " juzgue a su gobierno y no a Ã©l </TITULO>
+            <URL>../news/20000702_147836_C20.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="5">
+            <NOMBRE>20000901_193579_C15.source.es</NOMBRE>
+            <TITULO>GarzÃ³n procesa a Cavallo por genocidio , terrorismo y torturas </TITULO>
+            <URL>../news/20000901_193579_C15.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="6">
+            <NOMBRE>20001201_270838_C6.source.es</NOMBRE>
+            <TITULO>Gobierno espaÃ±ol concede mayor indulto de los Ãºltimos 22 aÃ±os </TITULO>
+            <URL>../news/20001201_270838_C6.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="7">
+            <NOMBRE>20000802_173042_C25.source.es</NOMBRE>
+            <TITULO>Bruguera : " No es una buena idea jugar la final en pista cerrada " </TITULO>
+            <URL>../news/20000802_173042_C25.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="8">
+            <NOMBRE>20000802_173087_C13.source.es</NOMBRE>
+            <TITULO>AcusaciÃ³n en EspaÃ±a dice desafuero Pinochet es " paso adelante " </TITULO>
+            <URL>../news/20000802_173087_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="9">
+            <NOMBRE>20001201_270325_C9.source.es</NOMBRE>
+            <TITULO>Consul espaÃ±ol recaba informaciÃ³n con Ministro Interior Georgia </TITULO>
+            <URL>../news/20001201_270325_C9.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="7">
+        <NOTICIA id="0">
+            <NOMBRE>20001201_270424_C26.source.es</NOMBRE>
+            <TITULO>Ayuntamiento CÃ¡diz pide a el gobierno traslado Tireless a Reino Unido </TITULO>
+            <URL>../news/20001201_270424_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000901_193339_C26.source.es</NOMBRE>
+            <TITULO>PA pide Parlamento Europeo medie traslado submarino " Tireless " </TITULO>
+            <URL>../news/20000901_193339_C26.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="8">
+        <NOTICIA id="0">
+            <NOMBRE>20000701_147709_C23.source.es</NOMBRE>
+            <TITULO>David Millar ( COFIDIS ) gana la primera etapa </TITULO>
+            <URL>../news/20000701_147709_C23.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20001201_270985_C9.source.es</NOMBRE>
+            <TITULO>NÃºmero dos Ministerio Interior Georgia viajarÃ¡ a zona aclarar caso </TITULO>
+            <URL>../news/20001201_270985_C9.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20000702_148049_C23.source.es</NOMBRE>
+            <TITULO>El belga Tom Steels se impuso a el esprint en segunda etapa tour </TITULO>
+            <URL>../news/20000702_148049_C23.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20000702_148065_C23.source.es</NOMBRE>
+            <TITULO>Belga Steels se llevarÃ¡ la primera llegada masiva </TITULO>
+            <URL>../news/20000702_148065_C23.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="4">
+            <NOMBRE>20001202_271280_C21.source.es</NOMBRE>
+            <TITULO>MÃ©dicos detectan infecciÃ³n respiratoria y continua " muy grave " </TITULO>
+            <URL>../news/20001202_271280_C21.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="5">
+            <NOMBRE>20001202_271517_C21.source.es</NOMBRE>
+            <TITULO>No detectan nuevas complicaciones tras infecciÃ³n respiratoria </TITULO>
+            <URL>../news/20001202_271517_C21.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="9">
+        <NOTICIA id="0">
+            <NOMBRE>20000401_74058_C30.source.es</NOMBRE>
+            <TITULO>GeofÃ­sico informa de 536 seÃ­smos leves en el Guagua Pichincha </TITULO>
+            <URL>../news/20000401_74058_C30.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000602_123801_C30.source.es</NOMBRE>
+            <TITULO>PequeÃ±a explosiÃ³n y seÃ­smos en el Pichincha preocupan a expertos </TITULO>
+            <URL>../news/20000602_123801_C30.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="10">
+        <NOTICIA id="0">
+            <NOMBRE>20000902_194090_C2.source.es</NOMBRE>
+            <TITULO>PolicÃ­a inicio interrogatorio a los tripulantes de el " Privilege " </TITULO>
+            <URL>../news/20000902_194090_C2.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000902_193914_C2.source.es</NOMBRE>
+            <TITULO>PolicÃ­a inicia registro " Privilege " para confirmar cantidad droga </TITULO>
+            <URL>../news/20000902_193914_C2.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="11">
+        <NOTICIA id="0">
+            <NOMBRE>20000601_121970_C32.source.es</NOMBRE>
+            <TITULO>Tribunal Atlanta puede dar maÃ±ana dictamen sobre niÃ±o cubano </TITULO>
+            <URL>../news/20000601_121970_C32.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000601_121986_C32.source.es</NOMBRE>
+            <TITULO>Tribunal de Atlanta anuncia hoy dictamen sobre niÃ±o cubano </TITULO>
+            <URL>../news/20000601_121986_C32.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20000701_147590_C32.source.es</NOMBRE>
+            <TITULO>Fidel Castro califica a Elian y su padre de " gigantes morales " </TITULO>
+            <URL>../news/20000701_147590_C32.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20000601_122270_C32.source.es</NOMBRE>
+            <TITULO>Los exiliados , expectantes ante el inminente fallo sobre Elian </TITULO>
+            <URL>../news/20000601_122270_C32.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="12">
+        <NOTICIA id="0">
+            <NOMBRE>20000801_172061_C13.source.es</NOMBRE>
+            <TITULO>ComenzÃ³ reuniÃ³n Corte Suprema decidirÃ¡ sobre desafuero Pinochet </TITULO>
+            <URL>../news/20000801_172061_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000801_172521_C13.source.es</NOMBRE>
+            <TITULO>Molestia y preocupaciÃÂ³n entre querellantes por aplazamiento fallo </TITULO>
+            <URL>../news/20000801_172521_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20000802_172945_C13.source.es</NOMBRE>
+            <TITULO>Aplazamiento fallo implica suprema no decide aÃºn sobre desafuero </TITULO>
+            <URL>../news/20000802_172945_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20000802_173062_C13.source.es</NOMBRE>
+            <TITULO>Instan a Corte Suprema a que dÃ© a conocer fallo sobre desafuero </TITULO>
+            <URL>../news/20000802_173062_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="4">
+            <NOMBRE>20000801_172161_C13.source.es</NOMBRE>
+            <TITULO>Pinochet romperÃ¡ su silencio si es desaforado , segÃºn diario </TITULO>
+            <URL>../news/20000801_172161_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="5">
+            <NOMBRE>20000801_172337_C13.source.es</NOMBRE>
+            <TITULO>Corte Suprema aplaza dar a conocer decisiÃ³n sobre desafuero </TITULO>
+            <URL>../news/20000801_172337_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="6">
+            <NOMBRE>20000801_172354_C13.source.es</NOMBRE>
+            <TITULO>La Corte Suprema aplaza dar a conocer su decisiÃ³n sobre desafuero </TITULO>
+            <URL>../news/20000801_172354_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="7">
+            <NOMBRE>20000801_172420_C13.source.es</NOMBRE>
+            <TITULO>Corte Suprema pospone dar a conocer fallo definitivo de desafuero </TITULO>
+            <URL>../news/20000801_172420_C13.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="8">
+            <NOMBRE>20000802_172773_C13.source.es</NOMBRE>
+            <TITULO>Vicepresidente CGPJ : importante se luche contra inmunidades poder </TITULO>
+            <URL>../news/20000802_172773_C13.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="13">
+        <NOTICIA id="0">
+            <NOMBRE>20000801_172119_C17.source.es</NOMBRE>
+            <TITULO>Devuelven un Concorde a los hangares poco antes de despegar </TITULO>
+            <URL>../news/20000801_172119_C17.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000901_193217_C17.source.es</NOMBRE>
+            <TITULO>Se necesitarÃ¡n meses o aÃ±os para determinar las causas de el accidente </TITULO>
+            <URL>../news/20000901_193217_C17.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20000902_193898_C17.source.es</NOMBRE>
+            <TITULO>Hay " demasiadas zonas de sombra " sobre accidente , segÃºn abogado </TITULO>
+            <URL>../news/20000902_193898_C17.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20000801_172327_C17.source.es</NOMBRE>
+            <TITULO>ReanudaciÃ³n vuelos Concorde condicionada a secuencia accidente </TITULO>
+            <URL>../news/20000801_172327_C17.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="14">
+        <NOTICIA id="0">
+            <NOMBRE>20000901_193255_C26.source.es</NOMBRE>
+            <TITULO>DiputaciÃ³n critica " debilidad " gobierno a el aceptar reparaciÃ³n </TITULO>
+            <URL>../news/20000901_193255_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000901_193383_C26.source.es</NOMBRE>
+            <TITULO>Junta exige a gobierno plan emergencia si acepta la reparaciÃ³n </TITULO>
+            <URL>../news/20000901_193383_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20001102_246579_C26.source.es</NOMBRE>
+            <TITULO>Caruana afirma que no le consta ningÃºn peligro en reparaciones </TITULO>
+            <URL>../news/20001102_246579_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20001102_246349_C26.source.es</NOMBRE>
+            <TITULO>Perales : Gobierno se esconde tras Consejo Seguridad Nuclear </TITULO>
+            <URL>../news/20001102_246349_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="4">
+            <NOMBRE>20001102_246596_C26.source.es</NOMBRE>
+            <TITULO>Mancomunidad_Campo_Gibraltar recurre naviera transporte especial </TITULO>
+            <URL>../news/20001102_246596_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="5">
+            <NOMBRE>20001101_245550_C26.source.es</NOMBRE>
+            <TITULO>ConcentraciÃ³n maÃ±ana en Los Barrios reclamaciÃ³n marcha Tireless </TITULO>
+            <URL>../news/20001101_245550_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="6">
+            <NOMBRE>20001101_245638_C26.source.es</NOMBRE>
+            <TITULO>PSOE pide a gobierno que exija a Gran BretaÃ±a " respuesta rÃ¡pida " </TITULO>
+            <URL>../news/20001101_245638_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="7">
+            <NOMBRE>20001102_246743_C26.source.es</NOMBRE>
+            <TITULO>Un millar de personas exigen en Los Barrios marcha de el " Tireless " </TITULO>
+            <URL>../news/20001102_246743_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="8">
+            <NOMBRE>20001102_246316_C26.source.es</NOMBRE>
+            <TITULO>Junta dice que segÃºn especialistas Tireless puede trasladar se </TITULO>
+            <URL>../news/20001102_246316_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="9">
+            <NOMBRE>20001102_246688_C26.source.es</NOMBRE>
+            <TITULO>CSN : Submarino debe ser inspeccionado mediante acuerdo gobiernos </TITULO>
+            <URL>../news/20001102_246688_C26.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="10">
+            <NOMBRE>20001102_246766_C26.source.es</NOMBRE>
+            <TITULO>PSOE pide comparecencia PiquÃ© y Trillo y Junta insiste traslado </TITULO>
+            <URL>../news/20001102_246766_C26.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="15">
+        <NOTICIA id="0">
+            <NOMBRE>20000901_193258_C19.source.es</NOMBRE>
+            <TITULO>Bush con ventaja en votos de colegio electoral , segÃºn encuestas </TITULO>
+            <URL>../news/20000901_193258_C19.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000901_193608_C19.source.es</NOMBRE>
+            <TITULO>Gore toma ventaja de 10 puntos sobre Bush , segÃºn una encuesta </TITULO>
+            <URL>../news/20000901_193608_C19.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20001201_270165_C19.source.es</NOMBRE>
+            <TITULO>Encuesta : 62 por ciento votantes acepta como ganador a Bush </TITULO>
+            <URL>../news/20001201_270165_C19.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20001101_245882_C19.source.es</NOMBRE>
+            <TITULO>Dow Jones ya tiene veredicto : Gore serÃ¡ presidente de EEUU </TITULO>
+            <URL>../news/20001101_245882_C19.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="16">
+        <NOTICIA id="0">
+            <NOMBRE>20000901_193545_C15.source.es</NOMBRE>
+            <TITULO>AcusaciÃ³n : Procesamiento Cavallo es producto esfuerzo de vÃ­ctimas </TITULO>
+            <URL>../news/20000901_193545_C15.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000902_194241_C8.source.es</NOMBRE>
+            <TITULO>Ministros recorrerÃ¡n frontera para verificar si hay desplazados </TITULO>
+            <URL>../news/20000902_194241_C8.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="17">
+        <NOTICIA id="0">
+            <NOMBRE>20000901_193569_C8.source.es</NOMBRE>
+            <TITULO>Ministro de Defensa niega presencia de refugiados colombianos </TITULO>
+            <URL>../news/20000901_193569_C8.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000901_193768_C8.source.es</NOMBRE>
+            <TITULO>Gobierno admite presencia de unos 150 desplazados colombianos </TITULO>
+            <URL>../news/20000901_193768_C8.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="18">
+        <NOTICIA id="0">
+            <NOMBRE>20000902_193943_C2.source.es</NOMBRE>
+            <TITULO>PolicÃ­a cree Italia es destino alijo transportaba buque apresado </TITULO>
+            <URL>../news/20000902_193943_C2.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20000902_194074_C12.source.es</NOMBRE>
+            <TITULO>PolicÃ­a se incauta de 30 kilos de cocaÃ­na en capital venezolana </TITULO>
+            <URL>../news/20000902_194074_C12.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20001201_270427_C4.source.es</NOMBRE>
+            <TITULO>Ministros secundan acto espontÃ¡neo de condena ETA y apoyo EspaÃ±a </TITULO>
+            <URL>../news/20001201_270427_C4.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="19">
+        <NOTICIA id="0">
+            <NOMBRE>20001001_219537_C28.source.es</NOMBRE>
+            <TITULO>Samaranch proclama juegos " han sido los mejores de la historia " </TITULO>
+            <URL>../news/20001001_219537_C28.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20001001_219588_C28.source.es</NOMBRE>
+            <TITULO>Mayores fuegos de artificio de historia despidieron juegos Sydney </TITULO>
+            <URL>../news/20001001_219588_C28.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="20">
+        <NOTICIA id="0">
+            <NOMBRE>20001001_219556_C34.source.es</NOMBRE>
+            <TITULO>Abogado espaÃ±ol condenado muerte EEUU comparecerÃ¡ lunes en Senado </TITULO>
+            <URL>../news/20001001_219556_C34.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="21">
+        <NOTICIA id="0">
+            <NOMBRE>20001002_220242_C18.source.es</NOMBRE>
+            <TITULO>Rescate de cadÃ¡veres de el " Kursk " empezarÃ¡ el 18 de octubre </TITULO>
+            <URL>../news/20001002_220242_C18.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="1">
+            <NOMBRE>20001101_245580_C18.source.es</NOMBRE>
+            <TITULO>Identifican con nombres y apellidos otros tres marinos " Kursk " </TITULO>
+            <URL>../news/20001101_245580_C18.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="2">
+            <NOMBRE>20001102_246208_C18.source.es</NOMBRE>
+            <TITULO>Revelan en funeral nuevos detalles de el drama a bordo de el " Kursk " </TITULO>
+            <URL>../news/20001102_246208_C18.source.es</URL>
+        </NOTICIA>
+        <NOTICIA id="3">
+            <NOMBRE>20001102_246088_C18.source.es</NOMBRE>
+            <TITULO>Identifican otros tres cadÃ¡veres rescatados de el " Kursk " </TITULO>
+            <URL>../news/20001102_246088_C18.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="22">
+        <NOTICIA id="0">
+            <NOMBRE>20001102_246251_C4.source.es</NOMBRE>
+            <TITULO>Terrorismo desbanca a el paro como principal preocupaciÃ³n espaÃ±oles </TITULO>
+            <URL>../news/20001102_246251_C4.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="23">
+        <NOTICIA id="0">
+            <NOMBRE>20001102_246427_C12.source.es</NOMBRE>
+            <TITULO>Hallados 500 kilos cocaÃ­na camuflados en lote de ladrillos </TITULO>
+            <URL>../news/20001102_246427_C12.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="24">
+        <NOTICIA id="0">
+            <NOMBRE>20001102_246563_C4.source.es</NOMBRE>
+            <TITULO>Terrorismo se convierte en la principal preocupaciÃ³n de espaÃ±oles </TITULO>
+            <URL>../news/20001102_246563_C4.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="25">
+        <NOTICIA id="0">
+            <NOMBRE>20001201_270282_C21.source.es</NOMBRE>
+            <TITULO>EvoluciÃ³n favorable a el adaptar se su organismo a la intervenciÃ³n </TITULO>
+            <URL>../news/20001201_270282_C21.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+    <CLUSTER id="26">
+        <NOTICIA id="0">
+            <NOMBRE>20001202_271385_C21.source.es</NOMBRE>
+            <TITULO>Carlos Cano : Cantautor sigue " muy grave " , segÃºn informe mÃ©dicos </TITULO>
+            <URL>../news/20001202_271385_C21.source.es</URL>
+        </NOTICIA>
+    </CLUSTER>
+</CLUSTERS>
